@@ -1,0 +1,15 @@
+{
+  "name": "christian-system",
+  "version": "0.0.1",
+  "description": "Translation from the book A Christian System, by Alexander Campbell",
+  "main": "index.js",
+  "author": "Leandro Alves",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.4.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
