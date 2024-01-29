@@ -94,7 +94,7 @@ germinate in the mind of George Fox, in little more than half a
 century after the introduction of the Leyden theology.
 
 In Lord Chatham's days, the Episcopal church, as his Lordship
-declares, was a singular compound —"A Popish liturgy, Calvinistic
+declares, was a singular compound — "A Popish liturgy, Calvinistic
 articles, and an Arminian clergy." But every few years caused a
 new dissension and reformation, until the kirk of Scotland and the
 church of England have been compelled to respect, in some good
@@ -105,9 +105,9 @@ of Picardy, lived in the grateful remembrance of the Geneva
 family; and James of Amsterdam, speculated in a very liberal style
 amongst all the Remonstrants at home and abroad. In Sweden,
 Holland, Germany, England, Scotland, the debate varied not
-essentially: the Pope against the Protestants —the Lutherans against
-the Calvinists —the Calvinists against the Arminians —the Bishops
-against the Presbyters —and the Presbyterians among themselves;
+essentially: the Pope against the Protestants — the Lutherans against
+the Calvinists — the Calvinists against the Arminians — the Bishops
+against the Presbyters — and the Presbyterians among themselves;
 until, by the potency of metaphysics and politics, they are now
 frittered down to various parties.
 
@@ -117,7 +117,7 @@ metaphysical faith alone; while the forms and ceremonies of all
 sects begat the "Spirit alone" in the mind of George Fox, while the
 Calvinian five points generated the Arminian five points; and
 while the Westminster Creed, though unsubscribed by its makers,
-begot a hundred others —not until within the present generation did
+begot a hundred others — not until within the present generation did
 any sect or party in Christendom unite and build upon the Bible
 alone.
 
@@ -178,22 +178,22 @@ church. Judging others we once judged ourselves, there are not a
 few who are advocating the Bible alone, and preaching their own
 opinions. Before we applied the Bible alone to our views, or
 brought our views and religious practice to the Bible, we plead the
-old theme, —"The Bible alone is the religion of Protestants." But we
+old theme, — "The Bible alone is the religion of Protestants." But we
 found it an arduous task, and one of twenty years' labor, to correct
 our diction and purify our speech according to the Bible alone; and
 even yet we have not wholly practically repudiated the language of
 Ashdod. We only profess to work and walk by the rules which will
 inevitably issue in a pure speech, and in right conceptions of that
-pure, and holy, and celestial thing called Christianity —in faith, in
+pure, and holy, and celestial thing called Christianity — in faith, in
 sentiment, and in practice.
 
 A deep and an abiding impression that the power, the consolations,
-and joys —the holiness and happiness —of Christ's religion were lost
+and joys — the holiness and happiness — of Christ's religion were lost
 in the forms and ceremonies, in the speculations and conjectures,
 in the feuds and bickerings of sects and schisms, originated a
 project many years ago for uniting the sects, or rather the
 _Christians_ in all the sects, upon a clear and scriptural bond of
-union —upon having a _"thus saith the Lord,"_ either in express terms,
+union — upon having a _"thus saith the Lord,"_ either in express terms,
 or in approved precedent, "for every article of faith, and item of
 religious practice." This was offered in the year 1809, in the
 "Declaration and Address" of the Washington Association,
@@ -215,7 +215,7 @@ When we take a close retrospective view of the last thirty years,
 that period,) and of the workings of that principle in heart and life,
 with which we commenced our public career in the work of the
 Lord; we know not how to express our astonishment better than in
-the following parable: —
+the following parable: — 
 
 A citizen of the West had a very promising young vineyard on a
 fruitful hill. He had no practical knowledge in the cultivation of the
@@ -244,11 +244,11 @@ years, and blasted, in one single moon, all my bright hopes for
 
 
 years to come!' The vine-dresser stood appalled; but soon as the
-tempest subsided, ventured to say, —'Master, I will serve you five
+tempest subsided, ventured to say, — 'Master, I will serve you five
 years for nothing, if we gather not more grapes and have not a
 better vineyard this year, than you have gathered in all the years
 since you planted these vines.' The proprietor of the vintage
-withdrew, saying, —'It is impossible! It is impossible!' and visited it
+withdrew, saying, — 'It is impossible! It is impossible!' and visited it
 not again till invited by his vine-dresser about the middle of
 autumn; when, to his still greater astonishment, and much more to
 his gratification, he found incomparably more grapes than hitherto
@@ -268,12 +268,12 @@ We flatter ourselves that the principles are now clearly and fully
 developed by the united efforts of a few devoted and ardent minds,
 who set out determined to sacrifice everything to truth, and follow
 her wherever she might lead the way: I say, the principles on
-which the church of Jesus Christ —all believers in Jesus as the
-Messiah —can be united with honor to themselves, and with
+which the church of Jesus Christ — all believers in Jesus as the
+Messiah — can be united with honor to themselves, and with
 blessings to the world; on which the gospel and its ordinances can
 be restored in all their primitive simplicity, excellency, and power,
 and the church shine as a lamp that burneth to the conviction and
-salvation of the world: —I say, the principles by which these things
+salvation of the world: — I say, the principles by which these things
 can be done are now developed, as well as the principles
 themselves, which together constitute _the original gospel and order
 of things_ established by the Apostles.
@@ -295,7 +295,7 @@ commandments, and traditions of men.'_
 This cause, like every other, was first plead by the tongue;
 afterwards by the pen and the press. The history of its progress
 corresponds with the history of every other religious revolution, in
-this respect —that different points, at different times, almost
+this respect — that different points, at different times, almost
 exclusively engrossed the attention of its pleaders. We began with
 the *outposts* and vanguard of the opposition. Soon as we found
 ourselves in the possession of one post our artillery was turned
@@ -309,7 +309,7 @@ the principles of reformation; and the piece alluded to was styled
 Washington, Pennsylvania."
 
 The constitutional principle of this "Christian Association" and its
-object are clearly expressed in the following resolution: —"That this
+object are clearly expressed in the following resolution: — "That this
 society, formed for the sole purpose of promoting simple
 evangelical Christianity, shall, to the utmost of its power,
 countenance and support such ministers, and such only, as exhibit
@@ -336,7 +336,7 @@ almost contemporaneous with it, we would emphatically remark,
 that, while the remonstrants warred against human creeds,
 evidently because those creeds warred against their own private
 opinions and favorite dogmas, which they wished to substitute for
-those creeds, —this enterprise, so far as it was hostile to those
+those creeds, — this enterprise, so far as it was hostile to those
 creeds, warred against them, not because of their hostility to any
 private or favorite opinions which were desired to be substituted
 for them; but because those human institutions supplanted the
@@ -352,7 +352,7 @@ since the days of John Wickliffe, and long before, have opposed
 creeds of human invention because those creeds opposed them. But
 so far as their controversy resembles them in its opposition to
 creeds, it is to be distinguished from them in this all-essential
-attribute, viz. —that our _opposition to creeds arose from a
+attribute, viz. — that our _opposition to creeds arose from a
 conviction, that whether the opinions in them were true or false,
 they were hostile to the union, peace, harmony, purity, and joy of
 Christians; and adverse to the conversion of the world to Jesus
@@ -361,7 +361,7 @@ Christ._
 Next to our personal salvation, two objects constituted the
 _summum bonum_, the supreme good, worthy of the sacrifice of all
 temporalities. The first was the union, peace, purity, and
-harmonious co-operation of Christians —guided by an
+harmonious co-operation of Christians — guided by an
 understanding enlightened by the Holy Scriptures; the other, the
 
 
@@ -384,8 +384,8 @@ overboard some opinions once as dear to us as they now are to
 those who never thought of the difference between principle and
 opinion.
 
-Some of these opinions —(as the most delicate and tender buds are
-soonest blighted by the frost) —immediately withered, and died
+Some of these opinions — (as the most delicate and tender buds are
+soonest blighted by the frost) — immediately withered, and died
 under the first application of our principles. Infant baptism and
 infant sprinkling, with all infantile imbecility, immediately expired
 in our minds, soon as the _Bible_ alone was made the only measure
@@ -412,7 +412,7 @@ As we are not writing a history of this struggle from its
 commencement till the present time, but simply informing the
 reader that the principles stated in the following pages have been
 maturely considered, and have passed through a long, complicated,
-and vigorous oppositions, —we shall hasten to the object of this
+and vigorous oppositions, — we shall hasten to the object of this
 book, which is to lay before the reader a miniature view of the
 principles already noticed.
 
@@ -443,7 +443,7 @@ admonished from the extremes into which some of our friends and
 brethren have carried some points, I undertake this work with a
 deep sense of its necessity, and with much anticipation of its
 utility, in exhibiting a concentrated view of the whole ground we
-occupy —of rectifying some extremes —of furnishing new means of
+occupy — of rectifying some extremes — of furnishing new means of
 
 
 defence to those engaged in contending with this generation for
@@ -452,10 +452,10 @@ primitive Christianity.
 Having also attentively considered the most vulnerable side of
 every great question, and re-examined the terms and phrases which
 have occasioned most opposition and controversy, whether from
-our own pen or that of any of our brethren, —our aim is now to offer
+our own pen or that of any of our brethren, — our aim is now to offer
 to the public a more matured view of such cardinal principles as
 are necessary to the right interpretation of the Holy
-Scriptures —both in acquiring and communicating a correct
+Scriptures — both in acquiring and communicating a correct
 knowledge of the Christian Institution, of such principles as are
 requisite to the discovery of truth and the exposure of error; as well
 as in a revised and corrected republication of the principal Extras
@@ -463,7 +463,7 @@ of the Millennial Harbinger, to lay before the reader the elements
 of the gospel itself, and of the worship most acceptable to God,
 through Jesus Christ our Lord.
 
-The work, then, naturally divides itself into three parts: —The first,
+The work, then, naturally divides itself into three parts: — The first,
 **The principles by which the Christian Institution may be
 certainly and satisfactorily ascertained:** the second, **The
 principles on which all Christians may form one communion:**
