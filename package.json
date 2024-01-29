@@ -6,7 +6,7 @@
   "author": "Leandro Alves",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.4.1"
+    "vuepress": "^1.9.10"
   },
   "scripts": {
     "docs:dev": "vuepress dev",
