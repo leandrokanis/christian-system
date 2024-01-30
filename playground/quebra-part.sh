@@ -1,26 +1,13 @@
 #!/bin/bash
 
 # Nome do arquivo original
-input_file="part_4.md"
+input_file="part_7.md"
 
 # Array com os subtítulos
 subtitles=(
-    "Introduction"
-    "Proposition 1"
-    "Proposition 2"
-    "Proposition 3"
-    "Proposition 4"
-    "Proposition 5"
-    "Proposition 6"
-    "Proposition 7"
-    "Proposition 8"
-    "Proposition 9"
-    "Proposition 10"
-    "Proposition 11"
-    "Proposition 12"
-    "Objections"
-    "Recapitulation"
-    "Conclusion"
+    "ADDRESS TO THE CITIZENS OF THE KINGDOM"
+    "A WORD TO FRIENDLY ALIENS"
+    "ADDRESS TO BELLIGERENT ALIENS"
 )
 
 # Loop pelos subtítulos para criar arquivos separados

@@ -1,1 +1,14 @@
-# Proposition 1
+***Proposition 1 – There is a house on earth, called the house of God.*** 
+
+The most high God dwells not in temples made with human hands; yet he condescended in the age of types to have a temple erected for himself, which he called his house, and glorified it with the symbols  of  his  presence.  In  allusion  to  this,  the  Christian community, organized under the government of his Son, is called his  house  and  temple.  'You  are  God's  building,'  says  Paul  to  a Christian community. This building is said to be 'built upon the Apostles and Prophets — Jesus Christ himself being the chief corner stone.' 'Know you not that you are the temple of God? The temple of God is holy, which temple you are.'1 
+
+But in allusion to the Jewish temple, the Christian church occupies the middle space between the outer court and the holiest of all. 'The holy places made with hands were figures of the true.' The common priests went *always* into the first tabernacle or holy place, and the high priest *once a year* into the *holiest of all.* Thus, our Great High Priest went *once for all* into the true 'holiest of all,' into the real presence of God, and has permitted us Christians as a royal priesthood, as a chosen race, to enter always into the only holy place now on earth — the Christian church. 'As living stones we are built  up  into  a  *spiritual  house,*  a  holy  priesthood,  to  offer  up spiritual sacrifices most acceptable to God by Jesus Christ.'2 
+
+But all we aim at is to show that the community under Christ is called '*the house of God.*' Paul once calls it *a* house of God, and once *the* house of God. An individual or single congregation, he calls '*a house of God.*'3 I have written to you, 'that you may know 
+
+how  to  behave  yourself  in  a  house  of  God,  which  is  the congregation  of  God.'4  And  in  his  letter  to  the  Heb.  5:1-14 
+
+speaking of the whole Christian community, he calls it the house of God.6 'Having a Great High Priest over the house of God, let us 
+
+draw near," etc. It is, then, apparent, that there is under the Lord Messiah, now on earth, an institution called *the house of God;* and this  resembles  the  *holy  place*  between  the  outer  court  and  the holiest of all, which is the position to be proved. 
+
