@@ -1,29 +1,17 @@
 #!/bin/bash
 
 # Nome do arquivo original
-input_file="part_1.md"
+input_file="part_2.md"
 
 # Array com os subtítulos
 subtitles=(
-    "10. Sacrifice for Sin"
-    "11. The Attributes of a True Sin-Offering"
-    "12. Christ: the Light of the World"
-    "13: The Lordship of the Messiah"
-    "14. Faith in Christ"
-    "15. Repentance"
-    "16. Baptism"
-    "17. The Christian Confession of Faith"
-    "18. Conversion and Regeneration"
-    "19. Christians are Persons Pardoned, Justified, Sanctified, Adopted, and Saved."
-    "20. The Gift of the Holy Spirit"
-    "21. The Christian Hope"
-    "22. The Doom of the Wicked"
-    "23. Summary of the Christian System of Facts"
-    "24. The Body of Christ"
-    "25. The Christian Ministry"
-    "26. The Christian Discipline"
-    "27. Expediency"
-    "28. Heresy"
+    "Introduction"
+    "1. Fact"
+    "2. Testimony"
+    "3. Faith"
+    "4. Confirmation of the Testimony"
+    "5. Fundamental Fact"
+    "6. Purity of Speech"
 )
 
 # Loop pelos subtítulos para criar arquivos separados
