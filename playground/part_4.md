@@ -43,7 +43,7 @@ But  there  is  no  need  of  foreign,  or  remote,  or  figurative expressions,
 
 These  explicit  testimonies  from  the  most  illustrious  witnesses, sustain my first proposition. On these evidences I rely, and I shall henceforth speak of it as a truth not to be questioned, viz.; that all the disciples of Christ converted in the apostolic age, were taught by the Apostles to consider themselves as pardoned persons. 
 
-Proposition 6 
+Proposition 2
 
 ***The apostolic converts were addressed by their teachers as justified persons.*** 
 
@@ -53,19 +53,28 @@ Paul, in Antioch in Pisidia, assured the Jews, that *in* or by Jesus all that be
 
 Christians are said to be justified by God, by Christ, by favor, by faith, by the blood of Jesus, by the *name* of the Lord Jesus, and by the  Spirit  of  God — also  by  works.  Pardon  and  acquittal  are  the prominent  ideas  in  every  application  of  the  term.  God  is  the justifier. Jesus also, as his Messiah, justifies, and the Spirit declares it. As an act of favor it is done, by *the blood of Jesus* as the rightful and efficient cause — *by the faith* as the instrumental cause — by *the name* of Jesus the Lord as the immediate and connecting cause, and by *works,* as the demonstrative and conclusive cause. Nothing is more plain from the above testimonies than that all Christians are declared to be justified under the Reign of Jesus Christ. 
 
+Proposition 3
+
 ***The ancient Christians were addressed by the Apostles as sanctified persons.*** 
 
 Paul  addressed all the disciples  in  Rome as saints or sanctified persons. In his first letter to the Corinthians, he addresses them all as *the sanctified* under Christ Jesus. "To the congregation of God which  is  at  Corinth,  to  *the  sanctified*  under  Christ  Jesus."  Paul argues with the Hebrews that "by the will of God we are sanctified by  the  offering  of  Jesus  Christ  once  only."  "For  by  this  one offering  he  has  forever  *perfected*  (the  conscience  of)  the *sanctified.*"  So  usual  was  it  for  the  Apostles  to  address  their disciples  as  sanctified  persons,  that  occasionally  they  are  thus designated  in  the  inscription  upon  their  epistles.  Thus  Jude addressing  indiscriminately  the  whole  Christian  community, inscribes his catholic epistle — "To *the sanctified* by God our Father and to the preserved (or saved) by Jesus Christ; to the called." "The sanctifier and the sanctified are all of one family," says the Apostle to  the  Gentiles.  And  therefore  the  sanctifier  addressed  the sanctified  as  his  brethren,  and  the  brethren  the  disciples  as sanctified.  But  once  more  we  must  hear  Paul,  and  hear  him connecting his sanctification with the *name* of the Lord Jesus. He says, "But now you are sanctified by *the name* of the Lord Jesus and by the Spirit of our God."16
 
+
+Proposition 4
+
 ***The ancient Christians, the apostolic converts, were addressed as "reconciled to God."*** 
 
 Paul repeatedly declares that the disciples were reconciled to God. "When enemies, we were reconciled to God by the death of his Son."17  To  the  Corinthians,  he  says,  "God  has  reconciled  us  to himself by Jesus Christ;"18 and to the Colossians, he asserts, "It pleased the Father by him to *reconcile* all things to him, having made peace by the blood of his cross; I say whether they be things on the earth, or things in the heavens. Even you who were formerly alienated in mind, and enemies by works which are wicked, *he has now, indeed, reconciled* in the body of his flesh through death."19 To the Ephesians he declares, that though "once they were without God and without hope in the world, far off, they are now, through the blood of Christ, *made nigh.*" He has made the believing Jews and Gentiles one, that he might, under Christ, *reconcile both in one body to God,* through the cross, having slain the enmity between both thereby. Indeed, he represents God as in Christ, *reconciling a world to himself;* and so all under Christ are frequently said to be reconciled to God through him; which was the point to be proved. 
+
+Proposition 5
 
 ***The first disciples were considered and addressed by the Apostles, as "adopted into the family of God."*** 
 
 This adoption is presented by the Apostle as the great reason which called forth the Son of God. "God," he says, "sent forth his Son, born of a woman, born under the law, that he might buy off those under the law, that we might receive the adoption of sons." "And because you *are sons,* he sent forth the spirit of his Son into your hearts, crying *Abba,* Father."20 "You are, therefore, now sons of God." 
 
 Indeed, the same writer, in his letter to the Ephesians, goes still farther, and represents this adoption of Jews and Gentiles into the rank and dignity of the sons and daughters of the Lord Almighty, as the great object contemplated in God's predestination. "Having," says  he,  "predestinated,  or  beforehand  determinately  pointed  us out, for an *adoption* into the number of children by Jesus Christ, *for himself,* according to the good pleasure of his will."21 Another testimony must suffice on this point. "Beloved," says the Apostle John, "*now* are we *the sons of God;* and what manner of love God has bestowed upon us, that we should be called *sons of God!*" "If sons, then we are heirs of God — joint heirs with Christ." 
+
+Proposition 6
 
 ***My sixth proposition is, that the first Christians were taught by the inspired teachers to consider themselves as saved persons.*** 
 

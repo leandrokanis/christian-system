@@ -1,1 +1,6 @@
-# Proposition 4
+Proposition 4
+
+***The ancient Christians, the apostolic converts, were addressed as "reconciled to God."*** 
+
+Paul repeatedly declares that the disciples were reconciled to God. "When enemies, we were reconciled to God by the death of his Son."17  To  the  Corinthians,  he  says,  "God  has  reconciled  us  to himself by Jesus Christ;"18 and to the Colossians, he asserts, "It pleased the Father by him to *reconcile* all things to him, having made peace by the blood of his cross; I say whether they be things on the earth, or things in the heavens. Even you who were formerly alienated in mind, and enemies by works which are wicked, *he has now, indeed, reconciled* in the body of his flesh through death."19 To the Ephesians he declares, that though "once they were without God and without hope in the world, far off, they are now, through the blood of Christ, *made nigh.*" He has made the believing Jews and Gentiles one, that he might, under Christ, *reconcile both in one body to God,* through the cross, having slain the enmity between both thereby. Indeed, he represents God as in Christ, *reconciling a world to himself;* and so all under Christ are frequently said to be reconciled to God through him; which was the point to be proved. 
+

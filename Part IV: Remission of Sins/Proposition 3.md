@@ -1,1 +1,7 @@
-# Proposition 3
+Proposition 3
+
+***The ancient Christians were addressed by the Apostles as sanctified persons.*** 
+
+Paul  addressed all the disciples  in  Rome as saints or sanctified persons. In his first letter to the Corinthians, he addresses them all as *the sanctified* under Christ Jesus. "To the congregation of God which  is  at  Corinth,  to  *the  sanctified*  under  Christ  Jesus."  Paul argues with the Hebrews that "by the will of God we are sanctified by  the  offering  of  Jesus  Christ  once  only."  "For  by  this  one offering  he  has  forever  *perfected*  (the  conscience  of)  the *sanctified.*"  So  usual  was  it  for  the  Apostles  to  address  their disciples  as  sanctified  persons,  that  occasionally  they  are  thus designated  in  the  inscription  upon  their  epistles.  Thus  Jude addressing  indiscriminately  the  whole  Christian  community, inscribes his catholic epistle — "To *the sanctified* by God our Father and to the preserved (or saved) by Jesus Christ; to the called." "The sanctifier and the sanctified are all of one family," says the Apostle to  the  Gentiles.  And  therefore  the  sanctifier  addressed  the sanctified  as  his  brethren,  and  the  brethren  the  disciples  as sanctified.  But  once  more  we  must  hear  Paul,  and  hear  him connecting his sanctification with the *name* of the Lord Jesus. He says, "But now you are sanctified by *the name* of the Lord Jesus and by the Spirit of our God."16
+
+

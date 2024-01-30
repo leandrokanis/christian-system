@@ -1,1 +1,21 @@
-# Proposition 7
+Proposition 7 
+
+***A change of views, though it necessarily precedes, is in no case equivalent to, and never to be identified with, a change of state.*** 
+
+In all the relations of his life, in all states or conditions of men, we feel the truth of this; and I would to Heaven that our readers could see as plainly what is of infinitely more importance to them, that no change of heart is equivalent to, or can be substituted for, a change of state! A change of heart is the result  of a change of views,  and  whatever  can  accomplish  a  change  of  views  may accomplish  a  change  of  heart  or  feeling,  but  a  change  of  state always calls for something more.28
+
+Lavinia was the servant of Palemon, and once thought him a hard master. She changed her views of him, and her feelings were also changed towards him; still, however, she continued in the state of a hand maid. Palemon offered her first his heart, and then his hand, and she accepted them. He vowed and she vowed before witnesses, and she became his wife. Then, and not till then, was her state changed. She is no longer a *servant* — she is now a *wife.* A change of views and of feelings led to this change in state; but let it be noted  that  this  might  not  have  issued  in  a  change  of  state;  for Maria, who was another handmaid of Palemon, and changed her views of him and her feelings towards him as much — nay, more than did  Lavinia;  yet  Maria lived and died the servant maid of Palemon and Lavinia. 
+
+William Agricola and his brother Thomas, both Canadians, were once  much  opposed  to  the  constituted  government  of  New England.  They  both  changed  their  views,  and,  as  a  matter  of course, their feelings were changed. William became a citizen of Rhode Island; but Thomas, notwithstanding his change of heart, lived and died a colonial subject of a British king. 
+
+John  and  James  Superbus  became  great  enemies  to  each  other. They continued irreconciled for many years. At length a change of views brought about a change of heart: but this change for more 
+
+
+than  a  year  was  concealed  in  the  heart,  and  by  no  overt  act appeared. They were not reconciled until mutual concessions were made  and  pledges  of  a  change  of  feeling  were  tendered  and reciprocated. From enemies they became friends. 
+
+A thousand analogies might be adduced, to show that though a change  of  state  often — nay,  generally  results  from  a  change  of feelings, and this from a change of views, yet a change of state does not generally follow, and is something quite different from, and cannot be identified with a change of heart. So in religion, a man may change his views of Jesus, and his heart may be changed towards  him;  but  unless  a  change  of  state  ensures,  he  is  still unpardoned,  unjustified,  unsanctified,  unreconciled,  unadopted, and lost to all Christian life and enjoyable. For it has been proved that these terms represent states and not feelings, condition and not character; and that a change of views or of heart, is not a change of state. To change a state is to pass into a new relation, and relation is  not  sentiment  nor  feeling.  Some  *act,*  then,  constitutional,  by stipulation proposed, sensible, and manifest, must be performed by one or both the parties before such a change can be accomplished. Hence, always, in ancient times, the proclamation of the gospel was accompanied by some instituted act proposed to those whose views were changed, by which their state was to be changed, and by which they were to stand in a new relation to Jesus Christ. 
+
+This  brings  us  to  "*the  obedience  of  faith.*"  From  the  time  the proclamation of God's philanthropy was first made, there was an act  of  obedience  proposed  in  it  by  which  the  believers  in  the proclamation were put in actual possession of its blessings, and by conformity to which act a change of state ensued. 
+
+To  perceive  what  this  act  of  faith  is,  it  must  be  remarked  that where there is no *command* there can be no *obedience.* These are correlate  terms.  A  message  or  proclamation  which  has  not  a command in it, cannot be obeyed. But the gospel can be obeyed or disobeyed, and therefore in it there is a command. Lest any person should hesitate in a matter of such importance, we will prove, 
+
