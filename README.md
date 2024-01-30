@@ -9,7 +9,7 @@ Published by Forrester & Campbell, Pittsburg.
 
 **1839**
 
-### INDEX
+### Table of Contents
 
 
 - [Preface](preface.md)
