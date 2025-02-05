@@ -3,7 +3,7 @@ require('dotenv').config();
 const path = require('path');
 const fs = require('fs').promises;
 
-const MODEL = "deepseek/deepseek-r1";
+const MODEL = "openai/gpt-4o-mini";
 
 async function translateToPortuguese(fileContent) {
   try {

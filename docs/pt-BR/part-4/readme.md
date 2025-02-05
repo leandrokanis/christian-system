@@ -1,0 +1,18 @@
+# Part IV: Remission of Sins
+
+- [Introduction](00-introduction.md)
+- [Conclusion](15-conclusion.md)
+- [Objections](13-objections.md)
+- [Proposition 1](01-proposition-1.md)
+- [Proposition 2](02-proposition-2.md)
+- [Proposition 3](03-proposition-3.md)
+- [Proposition 4](04-proposition-4.md)
+- [Proposition 5](05-proposition-5.md)
+- [Proposition 6](06-proposition-6.md)
+- [Proposition 7](07-proposition-7.md)
+- [Proposition 8](08-proposition-8.md)
+- [Proposition 9](09-proposition-9.md)
+- [Proposition 10](10-proposition-10.md)
+- [Proposition 11](11-proposition-11.md)
+- [Proposition 12](12-proposition-12.md)
+- [Recapitulation](14-recapitulation.md)
