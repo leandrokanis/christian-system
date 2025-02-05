@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 
 Luther said that the doctrine of justification, or forgiveness, was the test of a standing or falling church. If right in this, she could not be very far wrong in anything else; but if wrong here, it was not easy to suppose her right in anything. I quote from memory, but this was the idea of that great reformer.1 We agree with him in this as well as in many other sentiments. Emerging from the smoke of the great city of mystical Babylon, he saw as clearly and as far into these matters as any person could in such a hazy atmosphere. Many of his views only require to be carried out to their legitimate issue, and we should have the ancient gospel as the result.
 

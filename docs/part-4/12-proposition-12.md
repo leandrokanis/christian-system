@@ -4,7 +4,7 @@
 
 This proposition will be sustained by an extract from the creed of each of these sects.
 
-### Episcopalian
+## Episcopalian
 
 The clergy are ordered, before proceeding to baptize, to make the following prayer.56
 
@@ -16,7 +16,7 @@ After reading a part of the discourse with Nicodemus they are ordered to make th
 
 This, I need not add, is in accordance with the sentiments advanced in this essay. What a pity that the Episcopal church does not believe and practice her own creed!
 
-### Presbyterian
+## Presbyterian
 
 The Presbyterian Confession, on Baptism, chap. 28: sec. 1. declares that —
 
@@ -24,7 +24,7 @@ The Presbyterian Confession, on Baptism, chap. 28: sec. 1. declares that —
 
 "*A sign and seal of remission of sins!!*" This is much nigher the truth than this church seems to be apprised of. However, she cannot believe her own creed; for she does not believe that baptism is a sign and a seal of remission of sins, nor of regeneration in her own sense of it, to her baptized or sprinkled infants, but in paying any regard to the Scriptures, she could not say less than she has said. It is no wonder that many sectaries cannot be persuaded to think, that the scriptures mean what they say: for they are so much accustomed to say what they do not mean, that they cannot think God does mean what he says.
 
-### Methodist
+## Methodist
 
 The Methodist Creed says —
 
@@ -36,7 +36,7 @@ Then it is ordained that the minister say, or repeat the following prayer: —
 
 Thus the Methodist Creed and Church are nearly as scriptural as the church from which they sprang. She prays for those to be baptized, that in baptism they may receive the remission of sins! Does she believe what she says?
 
-### Baptist
+## Baptist
 
 ***Chapter* XXX. *Section* 1**.—
 
@@ -44,31 +44,31 @@ Thus the Methodist Creed and Church are nearly as scriptural as the church from 
 
 The Baptist follows the Presbyterian church as servilely as the Methodist church follows the English hierarchy. But she avows her faith that immersion is a *sign* of remission. A sign of the past, the present, or the future! A sign accompanying!
 
-### The Confession of Bohemia.
+## The Confession of Bohemia.
 
 "We believe that whatsoever by baptism — is in the outward ceremony signified and witnessed, all *that* doth the Lord God perform inwardly. That is, he washeth away sin, begetteth a man again, and bestoweth salvation upon him; for the bestowing of these excellent fruits was holy baptism given and granted to the church."
 
-### The Confession of Augsburg.
+## The Confession of Augsburg.
 
 "Concerning baptism, they teach that it is necessary to salvation, as a ceremony ordained of Christ; also, by baptism the grace of God is offered."
 
-### The Confession of Saxony.
+## The Confession of Saxony.
 
 "I baptize thee — that is I do witness that by this dipping thy sins be washed away, and that thou art now received of the true God."
 
-### The Confession of Whittenberg.
+## The Confession of Whittenberg.
 
 "We believe and confess that baptism is that sea, into the bottom whereof, as the Prophet saith, God doth cast all our sins."
 
-### The Confession of Helvetia.
+## The Confession of Helvetia.
 
 "To be baptized in the name of Christ, is to be enrolled, entered, and received into the covenant and family, and so into the inheritance of the sons of God; that is to say, to be called the sons of God, to be purged also from the filthiness of sins, and to be endued with the manifold grace of God, for to lead a new and innocent life."
 
-### The Confession of Sueveland.
+## The Confession of Sueveland.
 
 "As touching baptism, we confess that it is the font of regeneration, washeth away sins, and saveth us. But all these things we do understand as St. Peter doth interpret them. 1 Peter 3:21."
 
-### Westminster Assembly.
+## Westminster Assembly.
 
 "Before baptism the minister is to use some words of instruction — showing that it is instituted by our Lord Jesus Christ; that it is a seal of the covenant of grace, of our engrafting into Christ, and of our union with him, of remission of sins, regeneration, and life eternal."
 

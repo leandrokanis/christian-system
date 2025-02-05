@@ -1,4 +1,6 @@
-# 1. Proposition 5 – The one loaf must be broken before the saints feast upon it, which has obtained for this institution the name of "breaking the loaf."
+# Proposition 5
+
+***The one loaf must be broken before the saints feast upon it, which has obtained for this institution the name of "breaking the loaf."***
 
 But some, doubtless, will ask, 'Is it not called *the Lord's Supper?' Some have thought, amongst whom is Dr. Bell, that 1 Cor. 11:20. applies to the feasts of love or charity, rather than the showing forth the Lord's death. These may read the passage thus: — 'But your coming together into one place is not to eat a Lord's supper; for in eating it every one takes first his own supper; alluding, as they suppose, to a love feast eaten before *the breaking the loaf.*' But this Lord's supper is contradistinguished from their *own* supper. And might it not as reasonably be said, you cannot call *your* showing forth the Lord's death a Lord's supper; for before eating it you have eaten a supper of your own, which prevents you from making a *supper* of it? You do not make it a Lord's supper, if you first eat your supper. Nor, indeed, could the Corinthians call any eating a "Lord's supper," conducted as was the eating of their own suppers; for one ate and drank to excess, while another who was poor, or had no supper to bring, was hungry and put to shame. Could this be called a supper in honor of the Lord!
 

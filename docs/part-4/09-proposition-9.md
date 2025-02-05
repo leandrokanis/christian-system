@@ -1,4 +1,4 @@
-# 9. Proposition 9
+# Proposition 9
 
 ***That it is not faith, but an act resulting from faith, which changes our state, we shall now attempt to prove.***
 

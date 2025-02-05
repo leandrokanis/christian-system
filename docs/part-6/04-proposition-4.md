@@ -1,4 +1,6 @@
-# Proposition 4 – All Christians are members of the house or family of God, are called and constituted a holy and a royal priesthood, and may, therefore bless God for the Lord's table, its loaf, and cup — approach it without fear and partake of it with joy as often as they please, in remembrance of the death of their Lord and Savior.
+# Proposition 4
+
+***All Christians are members of the house or family of God, are called and constituted a holy and a royal priesthood, and may, therefore bless God for the Lord's table, its loaf, and cup — approach it without fear and partake of it with joy as often as they please, in remembrance of the death of their Lord and Savior.***
 
 The different clauses of this proposition, we shall sustain in order — '*all Christian are members of the family or house of God:*'10
 

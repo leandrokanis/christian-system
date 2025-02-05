@@ -1,4 +1,6 @@
-# Proposition 2 – In the house of God there is always the table of the Lord.
+# Proposition 2
+
+***In the house of God there is always the table of the Lord.***
 
 As there is an analogy between the Jewish holy place, and the Christian house of God; so there is an analogy between the furniture of the first tabernacle or holy place, and those who officiated in it; and the furniture of the Christian house of God, and those who officiate in it. 'In the first tabernacle, said Paul, which is called *holy*, there were the candlestick, and the table, and the showbread,' or the loaves of the presence. On the golden table every Sabbath day were placed *twelve* loaves, which were exhibited there for one week, and on the next Sabbath they were substituted by twelve fresh loaves sprinkled over with frankincense. The loaves which were removed from the table, were eaten by the priests. These were called in the Hebrew, 'the loaves of the faces,' or the loaves of the presence. This emblem of the abundance of spiritual food in the presence of God for all who dwell in the holy place, stood always upon the golden table furnished by the twelve tribes, even in the wilderness. The light in the first tabernacle was not from *without*, but from the seven lamps placed on the golden candlestick; emblematic of the perfect light not derived from this world, which is enjoyed in the house of God.
 

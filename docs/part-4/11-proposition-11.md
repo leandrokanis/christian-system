@@ -1,14 +1,14 @@
-# 1. Proposition 11
+# Proposition 11
 
-***All the Apostolic Fathers, as they are called; all the pupils of the Apostles; and all the ecclesiastical writers of note, of the first four Christian centuries, whose writings have come down to us; allude to, and speak of, Christian immersion, as the           "regeneration" and "remission of sins" spoken of in the New Testament.***
+***All the Apostolic Fathers, as they are called; all tpupils of the Apostles; and all the ecclesiastical writers of note, of the first four Christian centuries, whose writings have come down to us; allude to, and speak of, Christian immersion, as the "regeneration" and "remission of sins" spoken of in the New Testament.***
 
 This proposition I shall sustain by the testimony of those who have examined all Christian antiquity, and by citing the words of those usually called the apostolic Fathers, and other distinguished writers of the first four hundred years. We shall first summon one whose name is familiar throughout Christendom. Whether the writing be genuine or spurious, it is on all hands admitted to be a fragment of the highest antiquity: —
 
-***Barnabas***
+## Barnabas
 
 In  his  catholic  Epistle,  chapter  11:  says,  "Let  us  now  inquire whether  the  Lord  took  care  to  manifest  anything  beforehand, concerning water and the cross. Now, for the former of these, it is written  to  the  people  of  Israel,  how  they  shall  not  receive  that baptism  which  brings  to  forgiveness  of  sins;  but  shall  institute another to themselves that cannot. For thus saith the Prophet, "Be astonished, O Heavens! and let the earth tremble at it; because this people have done two great and wicked things: They have left me, the  fountain  of  living  waters,  and  have  digged  for  themselves broken cisterns that can hold no water. Is my holy mountain Zion, a desolate wilderness? For she shall be as a young bird when its nest is taken away." — "Consider how he hath joined both the *cross* and the *water* together. For this he saith, "*Blessed are they, who, putting their trust in the cross, descend into the water;* for they shall have their reward in due time; then, saith he, will I give it them." But as concerning the present time, he saith, "Their leaves shall not fail." Meaning thereby, that every word that shall go out of your mouth, shall through faith and charity be to the conversion and hope of many. In like manner does another Prophet speak: "And the land of Jacob was the praise of all the earth;" magnifying thereby the vessels of his Spirit. And what follows? "And there was a river running on the right hand, and beautiful trees grew up by  it;  and  he  that  shall  eat  of  them  shall  live  forever."  The signification of which is this: — *that we go down into the river full of sins and pollutions; but come up again bringing forth fruit; having in our hearts the fear and hope which are in Jesus by the Spirit:* "And  whosoever  shall  eat  of  them  shall  live  forever."  That  is, whosoever shall hearken to those that call them, and shall believe, shall live forever."
 
-***Clement and Hermas***
+## Clement and Hermas
 
 The former gives no testimony on the subject. The latter deposes as follows.50
 
@@ -24,7 +24,7 @@ Having closely and repeatedly examined the Epistles of Clement; of Polycarp, to 
 
 Having heard the apostolic Fathers, as they are called, depose to the views of the pupils of the Apostles, down to A. D. 140; I will summon a very learned Paidobaptist antiquarian, who can bring forward every writer and Father, down to the fifth century; and, before  we  hear  any  of  his  witnesses,  we  shall  interrogate  him concerning his own convictions after he had spent many years in rummaging all Christian antiquity: —
 
-***Testimony of Dr. W. Wall, Author of the History of Infant Baptism***
+***Testimony of Dr. W. Wall, Author of the History of ## aBaptism***
 
 Pray, Doctor, have you examined all primitive writers from the death of John down to the fifth century?
 
@@ -44,7 +44,7 @@ Did they also  substitute for "*baptism*" and "*baptize,*" the words *renewed,  
 
 We  shall  now  see  some  of  Mr.  Wall's  witnesses;  and  I  choose rather  to  introduce  them  from  his  own  pen,  as  he  cannot  be supposed partial to the views I have presented in this essay: —
 
-***Justin Martyr***
+## Justin Martyr
 
 Justin Martyr wrote about forty years after John the Apostle died, and  stands  most  conspicuous  among  the  primitive  Fathers.  He addressed  an  apology  to  the  Emperor  Antoninus  Pius.  In  this apology he narrates the *practices* of the Christians, and the reasons of  them.  Concerning  those  who  are  persuaded  and  believe  the things  which  are  taught,  and  who  promise  to  live  according  to them, he writes —
 
@@ -64,13 +64,13 @@ Did any of the ancients use the word *matheteueo* (to disciple) as it is used in
 
 So  soon  as  they  began  to  mysticize,  they  began  to  teach  that immersion *without faith,* would obtain remission of sins, and that immersion *without faith* was regeneration. Then came the debates about *original sin:* and so soon as original sin was proved, then came  the  necessity  of  infant  immersion  for  the  remission  of original  sin.  And  so  undisputed  was  the  import  of  baptism  for remission,  that  when  the  Pelagians  denied  original  sin,  pressed with difficulty, "why immerse those who have no sins?" they were pushed  to  invent  *actual  sins*  for  infants;  such  as  their  crying, peevishness,  restlessness,  etc.  on  account  of  which  sins  they supposed that infants might with propriety be immersed, though they had no original sin.
 
-***Tertullian***
+## Tertullian
 
 Tertullian, the first who mentions infant baptism, flourished about A. D.  216.  He  writes  against  the  practice:  and  among  his  most conclusive  arguments  against  infant  immersion,  (for  then,  there was no sprinkling,) he assumes, as a fundamental principle not to be questioned, that immersion was for the remission of sins; and, this being universally conceded, he argues as follows: —
 
 "Our  Lord  says,  indeed,  'Do  not  forbid  them  to  come  to  me;' therefore, let them come when they are grown up — let them come when they understand — when they are instructed whither it is that they  come.  Let  them  be  made  Christians  when  they  can  know Christ.  What  need  their  *guiltless*  age  make  such  haste  to  *the forgiveness  of  sins?*  Men  will  proceed  more  warily  in  worldly goods; and he that should not have earthly goods committed to him, yet shall have heavenly! Let them know how to desire this salvation, that you may appear to have given to one that asketh." p. 74.
 
-***Origen***
+## Origen
 
 Origen, though so great a visionary, is, nevertheless, a competent witness in any question of fact. And here I would again remind the reader,  that  it  is  as  witnesses  in  a  question  of  *fact,*  and  not  of *opinion,*  we  summon  these  ancients.  It  is  not  to  tell  their  own opinions, nor the reasons for them, but to depose what were the views of Christians on this institution in their times. There was no controversy on this subject for more than four hundred years, and therefore we expect only to find incidental allusions to it; but these are numerous, and of the most unquestionable character. Origen, in his homily upon Luke, says: —
 
@@ -96,7 +96,7 @@ Unless we were to transcribe all the testimonies of antiquity, one by one, no gr
 
 This proposition we will dismiss with the testimony of the most renowned of the Bishops of Africa. I extract it from a work now generally  read,  called  the  "History  of  Martyrs."  It  is  from  the account Cyprian gives of his conversion. — p. 317.
 
-***Cyprian***
+## Cyprian
 
 "While (says he) I lay in darkness and uncertainty, I thought on what  I  had  heard  of  a  second  birth,  proposed  by  the  divine goodness; but could not comprehend how a man could receive a new life from his being immersed in water, cease to be what he was before, and still remain the same body. How, said I, can such a change be possible? How can he who is grown old in a worldly way of living strip himself of his former inclinations and inveterate habits?  Can  he,  who  has  spent  his  whole  time  in  plenty,  and indulged his appetite without restraint, ever be transformed into an example of frugality and sobriety? Or he who has always appeared in splendid apparel, stoop to the plain, simple, and unornamented dress of the common people? It is impossible for a man, who has borne the most honorable posts, ever to submit to lead a private and obscure life: or that he who was never seen in public without a crowd of attendants, and persons who endeavored to make their fortunes  by  attending  him,  should  ever  bear  to  be  alone.  This (continues he) was my way of arguing: I thought it was impossible for me to leave my former course of life, and the habits I was then engaged in, and accustomed to: but no sooner did the live-giving water  wash  the  spots  off  my  soul,  than  my  heart  received  the heavenly light of the Holy Spirit, which transformed me into a new creature; all my difficulties were cleared, my doubts dissolved, and my darkness dispelled. I was then able to do what before seemed impossible;  could  discern  that  my  former  life  was  earthly  and sinful, according to the impurity of my birth; but that my spiritual birth  gave  me  new  ideas  and  inclinations,  and  directed  all  my views to God."
 

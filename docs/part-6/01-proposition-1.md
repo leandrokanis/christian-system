@@ -1,4 +1,6 @@
-# 1. Proposition 1 – There is a house on earth, called the house of God.
+# Proposition 1
+
+***There is a house on earth, called the house of God.***
 
 The most high God dwells not in temples made with human hands; yet he condescended in the age of types to have a temple erected for himself, which he called his house, and glorified it with the symbols of his presence. In allusion to this, the Christian community, organized under the government of his Son, is called his house and temple. 'You are God's building,' says Paul to a Christian community. This building is said to be 'built upon the Apostles and Prophets — Jesus Christ himself being the chief corner stone.' 'Know you not that you are the temple of God? The temple of God is holy, which temple you are.'1
 

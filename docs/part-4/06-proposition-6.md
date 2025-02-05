@@ -1,4 +1,4 @@
-# 6. Proposition 6
+# Proposition 6
 
 ***My sixth proposition is, that the first Christians were taught by the inspired teachers to consider themselves as saved persons.***
 

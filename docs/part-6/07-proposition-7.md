@@ -1,4 +1,6 @@
-# 1. Proposition 7 – The breaking of the one loaf, and the joint participation of the cup of the Lord, in commemoration of the Lord's death, usually called "the Lord's Supper," is an instituted part of the worship and edification of all Christian congregations in all their stated meetings.
+# Proposition 7
+
+***The breaking of the one loaf, and the joint participation of the cup of the Lord, in commemoration of the Lord's death, usually called "the Lord's Supper," is an instituted part of the worship and edification of all Christian congregations in all their stated meetings.***
 
 **Argument 1**. The first Christian congregation which met in Jerusalem, and which was constituted by the twelve Apostles, did as statedly attend upon the breaking of the loaf in their public meetings, as they did upon any other part of the Christian worship. So Luke records, Acts 2:42. 'They continued steadfast in the Apostles' doctrine, in the fellowship, in *the breaking of the loaf,* and in the prayers.' Ought we not, then, to continue as steadfast in the breaking of the loaf, as in the teaching of the Apostles, as in the fellowship, as in the prayers commanded by the Apostles?
 

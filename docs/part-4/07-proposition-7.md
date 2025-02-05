@@ -1,4 +1,4 @@
-# 7. Proposition 7
+# Proposition 7
 
 ***A change of views, though it necessarily precedes, is in no case equivalent to, and never to be identified with, a change of state.***
 
