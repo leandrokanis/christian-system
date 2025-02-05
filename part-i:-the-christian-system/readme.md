@@ -12,7 +12,7 @@
 - [10. Sacrifice for Sin](10.%20Sacrifice%20for%20Sin.md)
 - [11. The Attributes of a True Sin-Offering](11.%20The%20Attributes%20of%20a%20True%20Sin-Offering.md)
 - [12. Christ: the Light of the World](12.%20Christ:%20the%20Light%20of%20the%20World.md)
-- [13: The Lordship of the Messiah](13:%20The%20Lordship%20of%20the%20Messiah.md)
+- [13. The Lordship of the Messiah](13.%20The%20Lordship%20of%20the%20Messiah.md)
 - [14. Faith in Christ](14.%20Faith%20in%20Christ.md)
 - [15. Repentance](15.%20Repentance.md)
 - [16. Baptism](16.%20Baptism.md)
@@ -28,3 +28,4 @@
 - [26. The Christian Discipline](26.%20The%20Christian%20Discipline.md)
 - [27. Expediency](27.%20Expediency.md)
 - [28. Heresy](28.%20Heresy.md)
+

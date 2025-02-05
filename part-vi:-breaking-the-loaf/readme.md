@@ -1,4 +1,5 @@
-#  Part VI: Breaking the Loaf
+# Part VI: Breaking the Loaf
+
 - [Proposition 1](Proposition%201.md)
 - [Proposition 2](Proposition%202.md)
 - [Proposition 3](Proposition%203.md)
