@@ -7,7 +7,9 @@
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev",
-    "docs:build": "vuepress build"
+    "docs:build": "vuepress build",
+    "format": "node formater.js",
+    "translate": "node translater.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10"

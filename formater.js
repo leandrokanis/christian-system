@@ -8,7 +8,7 @@ async function formatToMarkdown(fileContent) {
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
-        model: "google/gemini-flash-1.5",
+        model: "openai/gpt-4o-mini",
         messages: [
           {
             role: "system",
@@ -104,6 +104,35 @@ async function processDirectory(singleFile = null) {
         }
       } catch (error) {
         console.error('❌ Erro ao acessar o arquivo:', error.message);
+        return;
+      }
+    }
+
+    // Se nenhum arquivo específico foi fornecido, lê o arquivo files.txt
+    console.log('\n📖 Lendo arquivo files.txt...');
+    try {
+      const filesContent = await fs.readFile('files.txt', 'utf-8');
+      const files = filesContent.split('\n').filter(file => file.trim()); // Remove linhas vazias
+      
+      console.log(`📋 Encontrados ${files.length} arquivos para processar`);
+      
+      for (const file of files) {
+        const fullPath = path.join(process.cwd(), file.trim());
+        try {
+          await processFile(fullPath);
+        } catch (error) {
+          console.error(`❌ Erro ao processar arquivo ${file}:`, error.message);
+          continue;
+        }
+      }
+      
+      console.log('\n🎉 Processamento de todos os arquivos concluído!');
+      return;
+    } catch (error) {
+      if (error.code === 'ENOENT') {
+        console.error('❌ Arquivo files.txt não encontrado. Continuando com o processamento de diretórios...');
+      } else {
+        console.error('❌ Erro ao ler files.txt:', error.message);
         return;
       }
     }
