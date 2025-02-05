@@ -7,4 +7,9 @@ module.exports = {
     nav,
     sidebar: sidebar.filter((i) => i.title !== "Node Modules"),
   },
+  configureWebpack: {
+    optimization: {
+      minimize: false
+    }
+  }
 };
