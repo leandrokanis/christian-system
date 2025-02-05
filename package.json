@@ -6,10 +6,10 @@
   "author": "Leandro Alves <leandrosustenido@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev",
-    "docs:build": "vuepress build",
-    "format": "node formater.js",
-    "translate": "node translater.js"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "format": "node src/formater.js",
+    "translate": "node src/translater.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
