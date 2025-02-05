@@ -1,4 +1,4 @@
-# Part I: The Christian System
+# The Christian System
 
 - [1. The Universe](1.%20The%20Universe.md)
 - [2. The Bible](2.%20The%20Bible.md)
