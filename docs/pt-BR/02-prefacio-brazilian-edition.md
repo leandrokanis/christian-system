@@ -1,9 +1,8 @@
 # Prefácio à Edição Brasileira
 
-
 ## **Sobre o Processo de Tradução**  
 
-A presente edição em português de *The Christian System*, de **Alexander Campbell**, publicado originalmente em **1839**, foi produzida com o objetivo de tornar essa obra clássica acessível ao leitor contemporâneo sem comprometer sua fidelidade ao original. Para isso, seguimos um processo cuidadosamente estruturado, combinando o uso de tecnologia avançada com revisão humana especializada.  
+A presente edição em português de *The Christian System*, de **Alexander Campbell**, publicada originalmente em **1839**, foi produzida com o objetivo de tornar essa obra clássica acessível ao leitor contemporâneo sem comprometer sua fidelidade ao original. Para isso, seguimos um processo cuidadosamente estruturado, combinando o uso de tecnologia avançada com revisão humana especializada.  
 
 A versão utilizada como base para a tradução foi **a edição eletrônica de 2012**, revisada, reformatada e editada por **Bradley S. Cobb**, pela *Gravel Hill Church of Christ*. Esta edição já havia passado por uma etapa de correção e adaptação tipográfica, facilitando seu processamento digital.  
 

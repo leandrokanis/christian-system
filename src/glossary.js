@@ -11,43 +11,34 @@ async function createGlossary(fileContent) {
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
-        "model": "openai/gpt-4o-mini",
+        "model": "openai/gpt-4o",
         "messages": [
           {
             "role": "system",
-            "content": "Você é um assistente especializado em análise linguística de textos do século XIX, focado em identificar dificuldades de tradução."
+            "content": "Você é um assistente especializado em análise linguística de textos do século XIX, focado em identificar palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução."
           },
           {
             "role": "system",
-            "content": "Sua tarefa é analisar um texto em inglês de 1839 e identificar palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução para o português moderno."
+            "content": "Expressões ou termos teológicos não são termos de glossário. Elas não devem ser incluídas no glossário."
           },
           {
             "role": "system",
-            "content": "Extraia APENAS termos que estejam PRESENTES no texto fornecido. NÃO invente ou adicione palavras que não aparecem no texto."
+            "content": "Sua tarefa é extrair termos diretamente do texto fornecido, sem inventar ou adicionar palavras que não estejam presentes nele."
           },
           {
             "role": "system",
-            "content": "Para cada termo identificado, forneça uma breve explicação de seu significado em inglês e, quando possível, uma sugestão de equivalência em inglês moderno."
+            "content": "Para cada termo identificado, forneça:\n- 'term': o termo exato como aparece no texto.\n- 'explanation': uma breve explicação do significado.\n- 'modern_equivalent': um possível equivalente em inglês moderno (ou null, se não houver um claro)."
           },
           {
             "role": "system",
-            "content": "O resultado deve ser um JSON puro com uma lista de objetos, cada um contendo:\n\n- 'term': o termo exato como aparece no texto fornecido\n- 'explanation': explicação breve em inglês sobre o termo\n- 'modern_equivalent': possível equivalência moderna (ou null, se não houver uma clara)"
-          },
-          {
-            "role": "system",
-            "content": "Se nenhum termo problemático for encontrado, retorne um JSON vazio: `[]`."
-          },
-          {
-            "role": "system",
-            "content": "Retorne APENAS o JSON puro, sem texto adicional, formatação markdown ou qualquer outro caractere especial."
+            "content": "Responda apenas com um JSON contendo uma lista de termos encontrados. Se nenhum termo relevante for identificado, retorne um JSON vazio: `[]`."
           },
           {
             "role": "user",
-            "content": "Por favor, identifique neste texto palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução. Certifique-se de que cada termo esteja REALMENTE presente no texto fornecido:\n\n```text\n{fileContent}\n```"
+            "content": `Analise o seguinte texto e identifique palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução:\n\n${fileContent}`
           }
         ]
-      }
-      ,
+      },
       {
         headers: {
           'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
@@ -63,9 +54,31 @@ async function createGlossary(fileContent) {
       throw new Error('Resposta da API em formato inválido');
     }
 
+    const rawContent = response.data.choices[0].message.content;
+
+    // Remover a formatação de código da resposta
+    const jsonString = rawContent.replace(/```json\n|\n```/g, '').trim();
+
+    // Log do conteúdo antes do parse
+    console.log('Conteúdo do glossário antes do parse:', jsonString);
+
+    // Verifica se o conteúdo é vazio
+    if (jsonString === '') {
+      console.warn('Nenhum termo encontrado. Retornando um glossário vazio.');
+      return [];
+    }
+
+    let parsedContent;
+    try {
+      // Tente fazer o parse do JSON
+      parsedContent = JSON.parse(jsonString);
+    } catch (parseError) {
+      console.error('Erro ao fazer parse do glossário:', jsonString);
+      throw parseError;
+    }
+
     console.log('Glossário concluído com sucesso');
-    console.log(response.data.choices[0].message.content);
-    return response.data.choices[0].message.content;
+    return parsedContent;
   } catch (error) {
     if (error.response) {
       console.error('Erro da API:', {
@@ -95,7 +108,12 @@ async function processFile(filePath) {
     // Adiciona verificação e tratamento do JSON
     let newTerms;
     try {
-      newTerms = JSON.parse(newGlossaryString);
+
+      console.log('########################');
+      console.log({newGlossaryString});
+      console.log('########################');
+
+      newTerms = newGlossaryString;
       if (!Array.isArray(newTerms)) {
         console.error('O glossário não é um array:', newGlossaryString);
         throw new Error('O formato do glossário é inválido - esperava um array');
@@ -151,14 +169,49 @@ async function processFile(filePath) {
   }
 }
 
-// Executa com base nos argumentos da linha de comando
-if (require.main === module) {
-  const filePath = process.argv[2];
-  if (!filePath) {
-    console.error('Por favor, forneça o caminho do arquivo a ser traduzido');
-    process.exit(1);
+async function processDirectory(dirPath) {
+  try {
+    console.log(`Processando diretório: ${dirPath}`);
+    const entries = await fs.readdir(dirPath, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const fullPath = path.join(dirPath, entry.name);
+      
+      if (entry.isDirectory()) {
+        // Processa recursivamente os subdiretórios
+        await processDirectory(fullPath);
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        // Processa apenas arquivos .txt
+        console.log(`\nProcessando arquivo: ${fullPath}`);
+        await processFile(fullPath);
+      }
+    }
+  } catch (error) {
+    console.error(`Erro ao processar diretório ${dirPath}:`, error);
   }
-  processFile(filePath);
 }
 
-module.exports = { createGlossary, processFile };
+// Modifica a execução principal
+if (require.main === module) {
+  const inputPath = process.argv[2];
+  if (!inputPath) {
+    console.error('Por favor, forneça o caminho do arquivo ou diretório a ser processado');
+    process.exit(1);
+  }
+
+  (async () => {
+    try {
+      const stats = await fs.stat(inputPath);
+      if (stats.isDirectory()) {
+        await processDirectory(inputPath);
+      } else {
+        await processFile(inputPath);
+      }
+    } catch (error) {
+      console.error('Erro ao processar entrada:', error);
+      process.exit(1);
+    }
+  })();
+}
+
+module.exports = { createGlossary, processFile, processDirectory };

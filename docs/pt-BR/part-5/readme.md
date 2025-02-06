@@ -8,4 +8,3 @@
 - [6. The Regeneration of the Church](06-the-regeneration-of-the-church.md)
 - [7. The Regeneration of the World](07-the-regeneration-of-the-world.md)
 - [8. A Word to the Moral Regenerators of Any Age](08-a-word-to-the-moral-regenerators-of-any-age.md)
-

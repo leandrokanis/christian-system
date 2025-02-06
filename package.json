@@ -10,7 +10,8 @@
     "docs:build": "vuepress build docs",
     "format": "node src/formater.js",
     "translate": "node src/translater.js",
-    "glossary": "node src/glossary.js"
+    "glossary": "node src/glossary.js",
+    "normalize": "node src/normalize.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
