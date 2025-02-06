@@ -3,11 +3,12 @@ require('dotenv').config();
 const path = require('path');
 const fs = require('fs').promises;
 
-const MODEL = "openai/gpt-4o-mini";
+const MODEL = "openai/gpt-4o";
 
 async function translateToPortuguese(fileContent) {
   try {
     console.log('Iniciando tradução para português...');
+    const startTime = Date.now(); // Captura o tempo de início
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
@@ -15,7 +16,7 @@ async function translateToPortuguese(fileContent) {
         messages: [
           {
             role: "system",
-            content: "Você é um tradutor especializado em traduzir textos teológicos antigosde inglês para português brasileiro, mantendo a formatação markdown."
+            content: "Você é um tradutor especializado em traduzir textos teológicos antigos de inglês para português brasileiro, mantendo a formatação markdown."
           },
           {
             role: "system",
@@ -66,35 +67,77 @@ async function translateToPortuguese(fileContent) {
 
 async function processFile(filePath) {
   try {
+    console.log(`Iniciando processamento do arquivo: ${filePath}`);
+    
     // Lê o arquivo original
     const fileContent = await fs.readFile(filePath, 'utf-8');
+    console.log(`Arquivo lido com sucesso: ${fileContent.length} caracteres`);
     
     // Traduz o conteúdo
     const translatedContent = await translateToPortuguese(fileContent);
     
-    // Cria o nome do novo arquivo
-    const dir = path.dirname(filePath);
-    const basename = path.basename(filePath, '.md');
-    const modelName = MODEL.replace('/', '-').toLowerCase();
-    const newFilePath = path.join(dir, `${basename}.pt-br.${modelName}.md`);
+    // Salva o conteúdo traduzido no mesmo arquivo
+    await fs.writeFile(filePath, translatedContent);
     
-    // Salva o conteúdo traduzido no novo arquivo
-    await fs.writeFile(newFilePath, translatedContent);
-    
-    console.log(`Arquivo traduzido salvo em: ${newFilePath}`);
+    console.log(`Arquivo traduzido e salvo em: ${filePath}`);
   } catch (error) {
     console.error('Erro ao processar arquivo:', error);
   }
 }
 
-// Executa com base nos argumentos da linha de comando
-if (require.main === module) {
-  const filePath = process.argv[2];
-  if (!filePath) {
-    console.error('Por favor, forneça o caminho do arquivo a ser traduzido');
-    process.exit(1);
+async function processDirectory(dirPath) {
+  try {
+    console.log(`Processando diretório: ${dirPath}`);
+    const entries = await fs.readdir(dirPath, { withFileTypes: true });
+    const processingPromises = []; // Array para armazenar as promessas de processamento
+
+    for (const entry of entries) {
+      const fullPath = path.join(dirPath, entry.name);
+      if (entry.isDirectory()) {
+        console.log(`Encontrado diretório: ${fullPath}. Processando recursivamente...`);
+        // Processa recursivamente os subdiretórios
+        await processDirectory(fullPath);
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        console.log(`Encontrado arquivo .md: ${fullPath}. Adicionando à lista de processamento...`);
+        // Adiciona a promessa de processamento do arquivo ao array
+        processingPromises.push(processFile(fullPath));
+      }
+    }
+
+    // Aguarda a conclusão de todas as promessas de processamento
+    await Promise.all(processingPromises);
+    console.log(`Processamento do diretório ${dirPath} concluído.`);
+  } catch (error) {
+    console.error(`Erro ao processar diretório ${dirPath}:`, error);
   }
-  processFile(filePath);
 }
 
-module.exports = { translateToPortuguese, processFile };
+// Executa com base nos argumentos da linha de comando
+if (require.main === module) {
+  const inputPath = process.argv[2];
+  if (!inputPath) {
+    console.error('Por favor, forneça o caminho do arquivo ou diretório a ser traduzido');
+    process.exit(1);
+  }
+
+  (async () => {
+    try {
+      const stats = await fs.stat(inputPath);
+      if (stats.isDirectory()) {
+        console.log(`Iniciando processamento do diretório: ${inputPath}`);
+        await processDirectory(inputPath);
+      } else if (stats.isFile() && inputPath.endsWith('.md')) {
+        console.log(`Iniciando processamento do arquivo: ${inputPath}`);
+        await processFile(inputPath);
+      } else {
+        console.error('O caminho fornecido não é um arquivo .md ou um diretório.');
+        process.exit(1);
+      }
+    } catch (error) {
+      console.error('Erro ao processar entrada:', error);
+      process.exit(1);
+    }
+  })();
+}
+
+module.exports = { translateToPortuguese, processFile, processDirectory };

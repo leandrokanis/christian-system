@@ -1,57 +1,97 @@
 [
   {
-    "term": "dispensations of the covenant of grace",
-    "explanation": "This phrase refers to periods or systems within religious history believed to involve God's governance and relationship with humanity under a particular divine agreement.",
-    "modern_equivalent": "phases of a divine agreement"
+    "term": "Proselytes of the Gate",
+    "explanation": "Gentiles who were attracted to Judaism but did not fully convert.",
+    "modern_equivalent": "Gentile converts"
   },
   {
-    "term": "patriarchal institution",
-    "explanation": "This refers to the social and religious system existing during the time of the biblical patriarchs, such as Abraham, Isaac, and Jacob.",
-    "modern_equivalent": "ancient religious tradition"
+    "term": "circumcision",
+    "explanation": "The surgical removal of the foreskin, as a religious rite in Judaism.",
+    "modern_equivalent": "surgical removal of foreskin"
   },
   {
-    "term": "Reign of Heaven",
-    "explanation": "An era or condition characterized by divine rule or the influence of God's kingdom as understood in a Christian theological context.",
-    "modern_equivalent": "Kingdom of God"
+    "term": "piety",
+    "explanation": "Devotion to religion; righteousness.",
+    "modern_equivalent": "devotion"
   },
   {
-    "term": "King of the Jews",
-    "explanation": "A title referring to God's role as the sovereign over the nation of Israel in biblical times.",
-    "modern_equivalent": null
+    "term": "alms",
+    "explanation": "Charitable donations given to the poor.",
+    "modern_equivalent": "charitable donations"
   },
   {
-    "term": "High Priest",
-    "explanation": "The chief religious leader in Jewish tradition, particularly prominent in temple worship.",
-    "modern_equivalent": "chief priest"
+    "term": "Casuistry",
+    "explanation": "The process of resolving moral questions by applying general ethical principles to specific cases.",
+    "modern_equivalent": "case-based reasoning"
   },
   {
-    "term": "national altar",
-    "explanation": "A central place for religious sacrifice and offerings within the Jewish nation.",
-    "modern_equivalent": "primary altar"
+    "term": "behooved",
+    "explanation": "Was necessary or proper for.",
+    "modern_equivalent": "was necessary"
   },
   {
-    "term": "convocations",
-    "explanation": "Formal gatherings or assemblies for religious purposes.",
-    "modern_equivalent": "assemblies"
+    "term": "sectarianism",
+    "explanation": "Excessive attachment to a particular sect or party, especially in religion.",
+    "modern_equivalent": "factionalism"
   },
   {
-    "term": "peculiar treasure",
-    "explanation": "This phrase denotes a special or unique status as God's chosen people, used to describe Israel.",
-    "modern_equivalent": "special possession"
+    "term": "dethroning",
+    "explanation": "Removing someone from their throne; displacing someone from power.",
+    "modern_equivalent": "removing from power"
   },
   {
-    "term": "Zion",
-    "explanation": "A biblical term for the city of Jerusalem, particularly in its aspect as a spiritual symbol of God's presence and the people of Israel.",
-    "modern_equivalent": "Jerusalem"
+    "term": "expedients",
+    "explanation": "Means of attaining an end, especially one that is convenient but considered improper or immoral.",
+    "modern_equivalent": "convenient methods"
   },
   {
-    "term": "Mount Zion",
-    "explanation": "A hill in Jerusalem that holds significant religious symbolism in Judaism and Christianity.",
-    "modern_equivalent": null
+    "term": "obligatory",
+    "explanation": "Required by a legal or moral obligation.",
+    "modern_equivalent": "required"
   },
   {
-    "term": "book of God",
-    "explanation": "Refers to the divine record or register of those belonging to God, analogous to the 'Book of Life' in Christian theology.",
-    "modern_equivalent": "divine record"
+    "term": "immersion",
+    "explanation": "The action of immersing someone or something in a liquid, particularly in a religious context.",
+    "modern_equivalent": "baptism"
+  },
+  {
+    "term": "allegiance",
+    "explanation": "Loyalty or commitment to a superior or to a group or cause.",
+    "modern_equivalent": "loyalty"
+  },
+  {
+    "term": "remission",
+    "explanation": "The cancellation of a debt, charge, or penalty; in religious context, forgiveness of sins.",
+    "modern_equivalent": "forgiveness"
+  },
+  {
+    "term": "affusion",
+    "explanation": "The pouring of water over the head in baptism.",
+    "modern_equivalent": "pouring"
+  },
+  {
+    "term": "inviolate",
+    "explanation": "Free or safe from injury or violation.",
+    "modern_equivalent": "untouched"
+  },
+  {
+    "term": "mould of doctrine",
+    "explanation": "The established or traditional form of religious teaching.",
+    "modern_equivalent": "traditional teaching"
+  },
+  {
+    "term": "alienated",
+    "explanation": "Feeling isolated or estranged, particularly in a community or society context.",
+    "modern_equivalent": "isolated"
+  },
+  {
+    "term": "plagues",
+    "explanation": "Diseases, calamities, or troubles, often seen as divine punishment.",
+    "modern_equivalent": "calamities"
+  },
+  {
+    "term": "Behold",
+    "explanation": "To see or observe!",
+    "modern_equivalent": "look"
   }
 ]

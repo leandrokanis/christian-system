@@ -7,35 +7,31 @@ const MODEL = "openai/gpt-4o-mini";
 
 async function createGlossary(fileContent) {
   try {
-    console.log('Criando glossário...');
+    console.log('Criando glossário de palavras...');
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
-        "model": "openai/gpt-4o",
+        model: MODEL,
         "messages": [
           {
             "role": "system",
-            "content": "Você é um assistente especializado em análise linguística de textos do século XIX, focado em identificar palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução."
+            "content": "Você é um assistente especializado em análise linguística de textos do século XIX, focado em identificar palavras arcaicas, que não são mais usadas atualmente, ou que tenham significados diferentes do que o moderno."
           },
           {
             "role": "system",
-            "content": "Expressões ou termos teológicos não são termos de glossário. Elas não devem ser incluídas no glossário."
+            "content": "Sua tarefa é extrair palavras arcaicas diretamente do texto fornecido, sem inventar ou adicionar palavras que não estejam presentes nele."
           },
           {
             "role": "system",
-            "content": "Sua tarefa é extrair termos diretamente do texto fornecido, sem inventar ou adicionar palavras que não estejam presentes nele."
+            "content": "Para cada palavra arcaica identificada, forneça a saída em json com o seguinte formato: `{\"term\": \"palavra arcaica\", \"explanation\": \"explicação da palavra em inglês\", \"modern_equivalent\": \"equivalente moderno em inglês\"}`"
           },
           {
             "role": "system",
-            "content": "Para cada termo identificado, forneça:\n- 'term': o termo exato como aparece no texto.\n- 'explanation': uma breve explicação do significado.\n- 'modern_equivalent': um possível equivalente em inglês moderno (ou null, se não houver um claro)."
-          },
-          {
-            "role": "system",
-            "content": "Responda apenas com um JSON contendo uma lista de termos encontrados. Se nenhum termo relevante for identificado, retorne um JSON vazio: `[]`."
+            "content": "Responda apenas com um JSON contendo uma lista de palavras arcaicas encontradas. Se nenhuma palavra arcaica relevante for identificado, retorne um JSON vazio: `[]`."
           },
           {
             "role": "user",
-            "content": `Analise o seguinte texto e identifique palavras arcaicas, expressões idiomáticas e referências culturais que possam ser problemáticas na tradução:\n\n${fileContent}`
+            "content": `Analise o seguinte texto e identifique palavras arcaicas que possam ser problemáticas na tradução:\n\n${fileContent}`
           }
         ]
       },
@@ -44,49 +40,31 @@ async function createGlossary(fileContent) {
           'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
           'Content-Type': 'application/json',
           'HTTP-Referer': 'http://localhost:3000',
-          'X-Title': 'Text Translator'
         }
       }
     );
 
-    if (!response.data || !response.data.choices || !response.data.choices[0] || !response.data.choices[0].message) {
-      console.error('Resposta da API em formato inesperado:', JSON.stringify(response.data, null, 2));
-      throw new Error('Resposta da API em formato inválido');
-    }
-
     const rawContent = response.data.choices[0].message.content;
-
-    // Remover a formatação de código da resposta
     const jsonString = rawContent.replace(/```json\n|\n```/g, '').trim();
-
-    // Log do conteúdo antes do parse
-    console.log('Conteúdo do glossário antes do parse:', jsonString);
 
     // Verifica se o conteúdo é vazio
     if (jsonString === '') {
-      console.warn('Nenhum termo encontrado. Retornando um glossário vazio.');
+      console.warn('Nenhuma palavra encontrada. Retornando um glossário vazio.');
       return [];
     }
 
     let parsedContent;
     try {
-      // Tente fazer o parse do JSON
       parsedContent = JSON.parse(jsonString);
     } catch (parseError) {
       console.error('Erro ao fazer parse do glossário:', jsonString);
       throw parseError;
     }
 
-    console.log('Glossário concluído com sucesso');
+    console.log('Glossário de palavras concluído com sucesso');
     return parsedContent;
   } catch (error) {
-    if (error.response) {
-      console.error('Erro da API:', {
-        status: error.response.status,
-        data: error.response.data
-      });
-    }
-    console.error('Erro ao criar glossário:', error.message);
+    console.error('Erro ao criar glossário:', error);
     throw error;
   }
 }
@@ -102,24 +80,23 @@ async function processFile(filePath) {
     
     // Gera o novo glossário
     console.log('Gerando novo glossário...');
-    const newGlossaryString = await createGlossary(fileContent);
+    const newGlossary = await createGlossary(fileContent);
     console.log('Novo glossário gerado com sucesso');
 
     // Adiciona verificação e tratamento do JSON
     let newTerms;
     try {
-
       console.log('########################');
-      console.log({newGlossaryString});
+      console.log({newGlossary});
       console.log('########################');
 
-      newTerms = newGlossaryString;
+      newTerms = newGlossary;
       if (!Array.isArray(newTerms)) {
-        console.error('O glossário não é um array:', newGlossaryString);
+        console.error('O glossário não é um array:', newGlossary);
         throw new Error('O formato do glossário é inválido - esperava um array');
       }
     } catch (parseError) {
-      console.error('Erro ao fazer parse do glossário:', newGlossaryString);
+      console.error('Erro ao fazer parse do glossário:', newGlossary);
       console.error('Erro detalhado:', parseError);
       throw parseError;
     }
@@ -173,19 +150,25 @@ async function processDirectory(dirPath) {
   try {
     console.log(`Processando diretório: ${dirPath}`);
     const entries = await fs.readdir(dirPath, { withFileTypes: true });
+    const processingPromises = []; // Array para armazenar as promessas de processamento
 
     for (const entry of entries) {
       const fullPath = path.join(dirPath, entry.name);
       
       if (entry.isDirectory()) {
+        console.log(`Encontrado diretório: ${fullPath}. Processando recursivamente...`);
         // Processa recursivamente os subdiretórios
         await processDirectory(fullPath);
       } else if (entry.isFile() && entry.name.endsWith('.md')) {
-        // Processa apenas arquivos .txt
-        console.log(`\nProcessando arquivo: ${fullPath}`);
-        await processFile(fullPath);
+        console.log(`Encontrado arquivo .md: ${fullPath}. Adicionando à lista de processamento...`);
+        // Adiciona a promessa de processamento do arquivo ao array
+        processingPromises.push(processFile(fullPath));
       }
     }
+
+    // Aguarda a conclusão de todas as promessas de processamento
+    await Promise.all(processingPromises);
+    console.log(`Processamento do diretório ${dirPath} concluído.`);
   } catch (error) {
     console.error(`Erro ao processar diretório ${dirPath}:`, error);
   }

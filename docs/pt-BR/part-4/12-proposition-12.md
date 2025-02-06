@@ -1,97 +1,97 @@
-# Proposition 12
+# Proposição 12
 
-***But even the reformed creeds—Episcopalian, Presbyterian, Methodist, and Baptist—substantially affirm the same views of immersion, though they seem hesitant to put them into practice with faith.***
+**Mesmo os credos reformados—anglicano, presbiteriano, metodista e batista—afirmam substancialmente as mesmas visões sobre a imersão, embora pareçam hesitar em colocá-las em prática com fé.**
 
-This proposition will be supported by extracts from the creed of each of these denominations.
+Esta proposição será apoiada por extratos do credo de cada uma dessas denominações.
 
-## Episcopalian
+## Anglicano
 
-The clergy are instructed, before proceeding to baptize, to make the following prayer:
+Os clérigos são instruídos, antes de proceder ao batismo, a fazer a seguinte oração:
 
-"Almighty and everlasting God, who by your great mercy saved Noah and his family in the Ark from perishing by water; and also led the children of Israel, your people, safely through the Red Sea—symbolizing the holy baptism; and by the baptism of your beloved Son Jesus Christ in the River Jordan, sanctified the element of water in the mystical washing away of sin; we beseech you, for your infinite mercies, to graciously look upon *these* your *servants*; wash *them* and sanctify *them* with the Holy Spirit; that *they*, being delivered from your wrath, may be received into the Ark of Christ's Church; and being steadfast in faith, joyful through hope, and rooted in charity, may pass through the waves of this troublesome world, that finally *they* may come to the land of everlasting life; there to reign with you, world without end, through Jesus Christ our Lord. *Amen.*"
+"Deus Todo-Poderoso e eterno, que por tua grande misericórdia salvou Noé e sua família na Arca de perecer pela água; e também guiou os filhos de Israel, teu povo, com segurança através do Mar Vermelho—simbolizando o santo batismo; e pelo batismo de teu amado Filho Jesus Cristo no Rio Jordão, santificou o elemento da água na lavagem mística dos pecados; nós te suplicamos, por tuas infinitas misericórdias, que olhes graciosamente sobre *estes* teus *servos*; lava-os e santifica-os com o Espírito Santo; para que *eles*, sendo livres da tua ira, possam ser recebidos na Arca da Igreja de Cristo; e permanecendo firmes na fé, alegres pela esperança, e enraizados na caridade, possam atravessar as ondas deste mundo conturbado, para que finalmente *eles* cheguem à terra da vida eterna; ali para reinar contigo, mundo sem fim, por Jesus Cristo nosso Senhor. *Amém.*"
 
-After reading a part of the discourse with Nicodemus, they are instructed to make the following exhortation:
+Após ler uma parte da conversa com Nicodemos, eles são instruídos a fazer a seguinte exortação:
 
-"Beloved, you hear in this gospel the express words of our Savior Christ: that unless a person is born of water and the Spirit, they cannot enter into the Kingdom of God. From this, you can perceive the great necessity of this sacrament where it is available. Likewise, immediately before his ascension into heaven (as we read in the last chapter of St. Mark's Gospel), he commanded his disciples, saying, 'Go into all the world and preach the gospel to every creature. He who believes and is baptized will be saved; but he who does not believe will be condemned.' This also shows us the great benefit we gain thereby. For this reason, St. Peter the Apostle, upon his first preaching of the gospel, many were pricked at the heart and said to him and the rest of the Apostles, 'Men and brethren, what shall we do?' He replied, 'Repent and be baptized every one of you for the remission of sins, and you shall receive the gift of the Holy Spirit; for the promise is for you and your children, and for all who are far off, as many as the Lord our God will call.' And with many other words, he exhorted them, saying, 'Save yourselves from this corrupt generation.' For as the same Apostle testifies elsewhere, even baptism now saves us (not through the removal of dirt from the body but as an appeal to God for a clear conscience)—through the resurrection of Jesus Christ. Therefore, do not doubt, but earnestly believe that he will favorably receive *these* present *persons,* truly repenting and coming to him by faith; that he will grant *them* remission of *their* sins, and bestow upon *them* the Holy Spirit; then he will give *them* the blessings of eternal life and *make them participants* in his everlasting kingdom."
+"Amados, ouvistes neste evangelho as palavras expressas de nosso Salvador Cristo: que, a menos que uma pessoa nasça da água e do Espírito, não pode entrar no Reino de Deus. Com isso, podeis perceber a grande necessidade deste sacramento onde ele está disponível. Da mesma forma, imediatamente antes de sua ascensão ao céu (como lemos no último capítulo do Evangelho de São Marcos), ele ordenou aos seus discípulos, dizendo: 'Ide por todo o mundo e pregai o evangelho a toda criatura. Quem crer e for batizado será salvo; mas quem não crer será condenado.' Isto também nos mostra o grande benefício que ganhamos por meio dele. Por esta razão, o Apóstolo Pedro, ao pregar o evangelho pela primeira vez, muitos foram tocados no coração e disseram a ele e aos demais Apóstolos: 'Homens e irmãos, que faremos?' Ele respondeu: 'Arrependei-vos e seja batizado cada um de vós para o perdão dos pecados, e recebereis o dom do Espírito Santo; pois a promessa é para vós e vossos filhos, e para todos os que estão distante, tantos quantos o Senhor nosso Deus chamar.' E com muitas outras palavras, ele os exortou, dizendo: 'Salvai-vos desta geração corrupta.' Pois, como o mesmo Apóstolo testifica em outro lugar, o batismo agora nos salva (não pela remoção de sujeira do corpo, mas como um apelo a Deus por uma boa consciência)—pela ressurreição de Jesus Cristo. Portanto, não duvideis, mas creiais firmemente que ele acolherá graciosamente *estas* pessoas *presentes,* verdadeiramente arrependidas e vindo a ele pela fé; que ele concederá a *elas* o perdão de *seus* pecados, e outorgará *nelas* o Espírito Santo; então ele lhes dará as bênçãos da vida eterna e *as fará partícipes* de seu reino eterno."
 
-This, I need not add, is in accordance with the sentiments expressed in this essay. What a pity that the Episcopal Church does not believe and practice its own creed!
+Não preciso acrescentar que isto está de acordo com os sentimentos expressos neste ensaio. Que pena que a Igreja Episcopal não acredite e pratique seu próprio credo!
 
-## Presbyterian
+## Presbiteriano
 
-The Presbyterian Confession, on Baptism, chapter 28, section 1, declares that —
+A Confissão de Fé Presbiteriana, sobre Batismo, capítulo 28, seção 1, declara que—
 
-"Baptism is a sacrament of the New Testament, ordained by Jesus Christ, not only for the solemn admission of the baptized person into the visible church; but also to serve as a sign and seal of the covenant of grace, of their engrafting into Christ, of regeneration, of remission of sins, and of their yielding to God, through Jesus Christ, to walk in newness of life; this sacrament is, by Christ's own appointment, to be continued in his church until the end of the world."
+"O batismo é um sacramento do Novo Testamento, ordenado por Jesus Cristo, não apenas para a admissão solene da pessoa batizada na igreja visível; mas também para servir como sinal e selo da aliança da graça, de sua incorporação em Cristo, de regeneração, de remissão dos pecados, e de sua dedicação a Deus, através de Jesus Cristo, para andar em novidade de vida; este sacramento é, pela própria designação de Cristo, para ser continuado em sua igreja até o fim do mundo."
 
-"*A sign and seal of remission of sins!!*" This is much closer to the truth than this church seems to recognize. However, it cannot believe its own creed; for it does not believe that baptism is a sign and a seal of remission of sins, nor of regeneration in its own interpretation for its baptized or sprinkled infants. But if it were to pay any regard to the Scriptures, it could not say less than it has stated. It is no wonder that many sectarians cannot be persuaded to think that the Scriptures mean what they say; for they are so accustomed to saying what they do not mean that they cannot think God does mean what he says.
+"*Um sinal e selo da remissão dos pecados!!*" Isto é muito mais próximo da verdade do que esta igreja parece reconhecer. No entanto, ela não pode acreditar em seu próprio credo; pois não acredita que o batismo seja um sinal e selo de remissão dos pecados, nem de regeneração na sua própria interpretação para seus bebês batizados ou aspergidos. Mas se ela prestasse atenção às Escrituras, não poderia dizer menos do que afirmou. Não é de se admirar que muitos sectários não possam ser persuadidos a pensar que as Escrituras significam o que dizem; pois estão tão acostumados a dizer o que não querem dizer que não conseguem acreditar que Deus realmente significa o que diz.
 
-## Methodist
+## Metodista
 
-The Methodist Creed states—
+O Credo Metodista declara—
 
-"Dearly beloved, since all men are conceived and born in sin (and what is born of the flesh is flesh, and those who are in the flesh cannot please God but live in sin, committing many actual transgressions), and that our Savior Christ states, 'None shall enter into the Kingdom of God, except they be regenerated and born anew of water and of the Holy Spirit'; I implore you to call upon God the Father, through our Lord Jesus Christ, that of his bounteous goodness he will grant to *these persons* that which by nature *they* cannot have; that *they* may be baptized with water and the Holy Spirit, and received into Christ's holy church, and made lively *members* of the same."
+"Amados, visto que todos os homens são concebidos e nascidos em pecado (e o que é nascido da carne é carne, e os que estão na carne não podem agradar a Deus, mas vivem em pecado, cometendo muitas transgressões), e que nosso Salvador Cristo afirma: 'Nenhum entrará no Reino de Deus, a menos que seja regenerado e nascido de novo da água e do Espírito Santo'; suplico-vos que invoquem Deus, o Pai, por meio de nosso Senhor Jesus Cristo, para que ele, por sua generosidade, conceda a *estas pessoas* aquilo que por natureza *elas* não podem ter; para que *elas* possam ser batizadas com água e o Espírito Santo, e recebidas na santa igreja de Cristo, e feitas membros ativos da mesma."
 
-Then it is directed that the minister say or repeat the following prayer:
+Então é direcionado que o ministro diga ou repita a seguinte oração:
 
-"Almighty and immortal God, the aid of all who need, the helper of all who flee to you for refuge, the life of those who believe, and the resurrection of the dead: We call upon you for *these persons*; that *they*, coming to your holy baptism, may receive remission of *their* sins through spiritual regeneration. Receive *them,* O Lord, as you have promised by your beloved Son, saying, 'Ask, and you shall receive; seek, and you shall find; knock, and it will be opened to you.' So give to us that ask; let us that seek, find; open the gate to us that knock; that *these persons* may enjoy the everlasting blessing of the heavenly washing, and may come to the eternal kingdom which you have promised through Christ our Lord. *Amen.*" — *Dis. p.* 105.
+"Deus Todo-Poderoso e imortal, o auxílio de todos os que precisam, o ajudador de todos os que buscam refúgio em ti, a vida daqueles que creem, e a ressurreição dos mortos: Nós te invocamos por *estas pessoas*; para que *elas*, vindo ao teu santo batismo, possam receber a remissão de *seus* pecados através da regeneração espiritual. Receba-as, ó Senhor, conforme prometeste por teu amado Filho, dizendo: 'Peçam, e receberão; busquem, e encontrarão; batam, e a porta será aberta.' Assim, dá-nos o que pedimos; deixa-nos encontrar o que buscamos; abre o portão para aqueles que batem; que *estas pessoas* possam desfrutar a bênção eterna da lavagem celestial, e possam chegar ao reino eterno que prometeste por Cristo nosso Senhor. *Amém.*" — *Dis. p.* 105.
 
-Thus, the Methodist Creed and Church are nearly as scriptural as the church from which they originated. They pray for those to be baptized that in baptism they may receive the remission of sins! Does she believe what she says?
+Assim, o Credo Metodista e a Igreja estão quase tão de acordo com as Escrituras quanto a igreja de onde se originaram. Eles oram para que aqueles que serão batizados recebam, no batismo, a remissão dos pecados! Será que acredita no que diz?
 
-## Baptist
+## Batista
 
-***Chapter* XXX. *Section* 1**.—
+***Capítulo* XXX. *Seção* 1**.—
 
-"Baptism is an ordinance of the New Testament, ordained by Jesus Christ, to serve as a sign of the baptized person's fellowship with him in his death and resurrection; of their engrafting into him; of remission of sins, and of their yielding to God, through Jesus Christ, to live and walk in newness of life."
+"O batismo é uma ordenança do Novo Testamento, instituída por Jesus Cristo, para servir como um sinal da comunhão do batizado com ele em sua morte e ressurreição; de sua incorporação nele; de remissão de pecados, e de sua dedicação a Deus, através de Jesus Cristo, para viver e andar em novidade de vida."
 
-The Baptist Church follows the Presbyterian Church as closely as the Methodist Church follows the English hierarchy. But it acknowledges its faith that immersion is a *sign* of remission. A sign of the past, the present, or the future! An accompanying sign!
+A Igreja Batista segue a Igreja Presbiteriana de perto, assim como a Igreja Metodista segue a hierarquia inglesa. Mas ela reconhece sua fé de que a imersão é um *sinal* de remissão. Um sinal do passado, do presente ou do futuro! Um sinal que acompanha!
 
-## The Confession of Bohemia.
+## A Confissão da Boêmia.
 
-"We believe that whatever is signified and witnessed in the outward ceremony of baptism, all of that the Lord God performs inwardly. That is, he washes away sin, begets a person again, and bestows salvation upon them; for the bestowing of these excellent fruits was holy baptism given and granted to the church."
+"Acreditamos que tudo o que é significado e testemunhado na cerimônia externa do batismo, tudo isso o Senhor Deus realiza internamente. Isto é, ele lava o pecado, faz nascer de novo uma pessoa, e concede salvação a ela; pois a melhor concessão desses frutos excelentes foi dada e concedida à igreja pelo santo batismo."
 
-## The Confession of Augsburg.
+## A Confissão de Augsburgo.
 
-"Concerning baptism, they teach that it is necessary to salvation, as a ceremony ordained of Christ; also, that through baptism the grace of God is offered."
+"Sobre o batismo, eles ensinam que é necessário para a salvação, como uma cerimônia ordenada por Cristo; também, que através do batismo a graça de Deus é oferecida."
 
-## The Confession of Saxony.
+## A Confissão da Saxônia.
 
-"I baptize you—that is, I witness that by this dipping your sins are washed away, and that you are now received by the true God."
+"Eu te batizo—isto é, testemunho que por esta imersão teus pecados são lavados, e que agora és recebido pelo verdadeiro Deus."
 
-## The Confession of Wittenberg.
+## A Confissão de Wittenberg.
 
-"We believe and confess that baptism is that sea, into the depths of which, as the Prophet says, God casts all our sins."
+"Acreditamos e confessamos que o batismo é aquele mar, nas profundezas do qual, como diz o Profeta, Deus lança todos os nossos pecados."
 
-## The Confession of Helvetia.
+## A Confissão da Helvécia.
 
-"To be baptized in the name of Christ is to be enrolled, entered, and received into the covenant and family, and thus into the inheritance of the sons of God; that is to say, to be called the sons of God, to be purged from the filthiness of sins, and to be endowed with the manifold grace of God, to lead a new and innocent life."
+"Ser batizado em nome de Cristo é ser inscrito, adentrado e recebido na aliança e na família, e assim na herança dos filhos de Deus; isto é, ser chamado de filhos de Deus, ser purificado da impureza dos pecados, e ser dotado da múltipla graça de Deus, para levar uma nova e inocente vida."
 
-## The Confession of Sueveland.
+## A Confissão de Suécia.
 
-"Regarding baptism, we confess that it is the source of regeneration, washes away sins, and saves us. But all these things we understand as St. Peter interprets them, as stated in 1 Peter 3:21."
+"Sobre o batismo, confessamos que é a fonte de regeneração, lava os pecados e nos salva. Mas todas essas coisas, entendemos como São Pedro as interpreta, como declarado em 1 Pedro 3:21."
 
-## Westminster Assembly.
+## Assembleia de Westminster.
 
-"Before baptism, the minister is to use some words of instruction—showing that it is instituted by our Lord Jesus Christ; that it is a seal of the covenant of grace, of our engrafting into Christ, and of our union with him, of remission of sins, regeneration, and eternal life."
+"Antes do batismo, o ministro deve usar algumas palavras de instrução—mostrando que ele é instituído por nosso Senhor Jesus Cristo; que é um selo da aliança da graça, de nossa incorporação em Cristo, e de nossa união com ele, da remissão dos pecados, regeneração e vida eterna."
 
-The Roman Catholic and the Greek Church say, "We believe in one baptism for the remission of sins."
+A Igreja Católica Romana e a Igreja Ortodoxa Grega dizem: "Acreditamos em um batismo para a remissão dos pecados."
 
-Calvin makes remission the principal aspect of baptism.
+Calvino faz da remissão o aspecto principal do batismo.
 
-"Baptism," he says, "resembles a legal instrument properly attested, by which he assures us that all our sins are canceled, effaced, and obliterated so that they will never appear in his sight, will not come into his remembrance, or be imputed to us. For he commands all who believe to be baptized for the remission of their sins. Therefore, those who have imagined that baptism is nothing more than a mark or sign by which we profess our religion before men, as soldiers wear the insignia of their sovereign as a mark of their profession, have not considered what is the *principal* thing in baptism; which is that we should receive it with this promise—'He who believes and is baptized will be saved.'"
+"O batismo," ele diz, "assemelha-se a um instrumento legal devidamente testemunhado, pelo qual ele nos assegura que todos os nossos pecados são cancelados, apagados e obliterados para que nunca apareçam à sua vista, não venham à sua lembrança, ou sejam imputados a nós. Pois ele ordena que todos os que acreditam sejam batizados para a remissão de seus pecados. Portanto, aqueles que imaginaram que o batismo não é mais do que uma marca ou sinal pelo qual professamos nossa religião diante dos homens, assim como os soldados usam as insígnias de seu soberano como um sinal de sua profissão, não consideraram qual é a *principal* coisa no batismo; que é que devemos recebê-lo com esta promessa: 'Quem crer e for batizado será salvo.'"
 
-"The ancient Christian church, from the highest antiquity, after the apostolic times, generally appears to have thought that baptism is absolutely necessary for all who would be saved by the grace of Jesus Christ."
+"A antiga igreja cristã, desde a mais alta antiguidade, após os tempos apostólicos, geralmente parece ter achado que o batismo era absolutamente necessário para todos que quereriam ser salvos pela graça de Jesus Cristo."
 
-"Most of the ancients concluded that baptism was no less necessary to salvation than faith or repentance itself."
+"A maioria dos antigos concluiu que o batismo não era menos necessário para a salvação do que a fé ou o arrependimento."
 
-John Wesley, in his commentary on the New Testament (p. 350), speaks more clearly than the earlier Methodist Discipline or the Regular Baptist Confession. His words are:
+John Wesley, em seu comentário sobre o Novo Testamento (p. 350), fala mais claramente do que a antiga Disciplina Metodista ou a Confissão Batista Regular. Suas palavras são:
 
-"Baptism, administered to true penitents, is both a *means* and a *seal* of pardon. Nor did God ordinarily in the primitive church bestow this (pardon) on any unless through this means."
+"O batismo, administrado aos verdadeiros penitentes, é tanto um *meio* quanto um *selo* de perdão. Nem Deus costuma, na igreja primitiva, conceder este (perdão) a qualquer pessoa exceto através deste meio."
 
-This is almost, if not entirely, as much as we have said about the forgiveness of sins through immersion.
+Isto é quase, se não inteiramente, tanto quanto dissemos sobre o perdão dos pecados através da imersão.
 
-May we not say that we have upheld this last proposition to the fullest extent of its terms?
+Podemos não dizer que defendemos esta última proposição ao máximo de seus termos?
 
-With the testimony of John Wesley, the last of the reformers, I conclude my list of witnesses for the significance of Christian immersion. I could greatly expand this list; indeed, I have been quite surprised while looking back into creeds, councils, commentators, and reformers, both ancient and modern. I fear that I shall be suspected of reaching the conclusions I have presented from consulting human writings, creeds, and reformers. My concerns are not that we, who advocate for reformation, may appear to have nothing *original* to offer in this reformation; that we are mere gatherers in the fields cultivated by other minds. It is not for this reason that we feel anxious, for the reformation we support is not characterized by new and original ideas or human inventions, but by a return to the original ideas and institutions developed in the New Testament. However, we fear that some may suspect the views presented to be a human invention or tradition because we have found so much support for them in the works of the most ancient and renowned Christian writers, as well as the creeds of ancient and modern reformers. We assure our readers, however, that we have come to these conclusions from the simple reading and impartial examination of the New Testament alone. Moreover, we may add that we are as astonished as any reader of this essay can be to find such a multitude of witnesses to the truth and significance of the views presented.
+Com o testemunho de John Wesley, o último dos reformadores, concluo minha lista de testemunhas para a importância da imersão cristã. Poderia expandir muito esta lista; de fato, fiquei bastante surpreso ao olhar para trás nos credos, concílios, comentaristas e reformadores, tanto antigos quanto modernos. Temo que serei suspeito de ter chegado às conclusões que apresentei consultando escritos humanos, credos e reformadores. Minhas preocupações não são que nós, que advogamos pela reforma, possamos parecer não ter nada *original* a oferecer nesta reforma; que somos apenas colhedores nos campos cultivados por outras mentes. Não é por esta razão que nos sentimos ansiosos, pois a reforma que apoiamos não é caracterizada por ideias novas e originais ou invenções humanas, mas por um retorno às ideias e instituições originais desenvolvidas no Novo Testamento. No entanto, tememos que alguns possam suspeitar que as visões apresentadas sejam uma invenção ou tradição humana porque encontramos tanto suporte para elas nas obras dos mais antigos e renomados escritores cristãos, bem como nos credos dos reformadores antigos e modernos. Asseguramos aos leitores, contudo, que chegamos a estas conclusões a partir da simples leitura e exame imparcial apenas do Novo Testamento. Além disso, podemos acrescentar que estamos tão surpresos quanto qualquer leitor deste ensaio em encontrar tamanha multidão de testemunhas para a verdade e importância das visões apresentadas.
 
-The propositions now proved and illustrated must convince all that there is *some connection* between immersion and the forgiveness of sins. What that connection is may be disputed by some, but that such a connection exists cannot be disputed by those who acknowledge the New Testament as containing a divine message to humanity. With John Wesley, we affirm it is "to the believing the *means* and *seal* of pardon for all previous offenses"; and we not only say we *think* so, but we preach it as such and practice it accordingly. Those who contemplate any other connection would do well to clarify what they mean, for we are confident there is no meaning in any other connection. To treat it as a commemorative sign of past remission is an affront to all rules of interpretation and a perfect anomaly in all revelation from God. To view it, prospectively, as a sign of future remission faces the same challenges. What remains is for it to be considered for what it truly is—the accompanying sign of an accompanying remission; the sign and the seal, or the means and the seal, of remission granted through the water, connected with the blood of Jesus, by divine appointment, and through our faith in it.
+As proposições agora provadas e ilustradas devem convencer todos de que há *alguma conexão* entre a imersão e o perdão dos pecados. Qual é essa conexão pode ser debatido por alguns, mas que tal conexão existe não pode ser contestado por aqueles que reconhecem o Novo Testamento como contendo uma mensagem divina para a humanidade. Com John Wesley, afirmamos que é "para os crentes, o *meio* e *selo* de perdão por todas as ofensas anteriores"; e não apenas dizemos que *acreditamos* nisso, mas pregamos desta forma e praticamos conforme isso. Aqueles que contemplam qualquer outra conexão fariam bem em esclarecer o que querem dizer, pois estamos confiantes de que não há significado em qualquer outra conexão. Tratá-la como um sinal comemorativo de perdão passado é um insulto a todas as regras de interpretação e uma completa anomalia em toda revelação de Deus. Vê-la, prospectivamente, como um sinal de perdão futuro enfrenta os mesmos desafios. O que resta é considerá-la pelo que realmente é—o sinal que acompanha uma remissão que acompanha; o sinal e o selo, ou o meio e o selo, da remissão concedida através da água, conectada com o sangue de Jesus, por nomeação divina, e através de nossa fé nele.
 
-We have heard some objections, and we can conceive of others that might be raised against *immersion for the remission of sins.* There can be objections made against any person, doctrine, sentiment, or practice—natural, moral, political, or religious—that has ever existed. But despite all the objections raised to everything, there are thousands of matters and truths we hold to be indubitable facts. Among these certain and sure things, unshakeable, is the Christian institution.
+Ouvimos algumas objeções, e podemos conceber outras que possam ser levantadas contra a *imersão para a remissão dos pecados.* Podem haver objeções feitas contra qualquer pessoa, doutrina, sentimento ou prática—natural, moral, política ou religiosa—que já existiu. Mas, apesar de todas as objeções levantadas contra tudo, há milhares de questões e verdades que consideramos fatos indubitáveis. Entre essas coisas certas e seguras, inabaláveis, está a instituição

@@ -80,16 +80,21 @@ async function processFile(filePath) {
 async function processDirectory(dirPath) {
   try {
     const entries = await fs.readdir(dirPath, { withFileTypes: true });
+    const processingPromises = []; // Array para armazenar as promessas de processamento
+
     for (const entry of entries) {
       const fullPath = path.join(dirPath, entry.name);
       if (entry.isDirectory()) {
         // Processa recursivamente os subdiretórios
         await processDirectory(fullPath);
       } else if (entry.isFile() && entry.name.endsWith('.md')) {
-        // Processa apenas arquivos .md
-        await processFile(fullPath);
+        // Adiciona a promessa de processamento do arquivo ao array
+        processingPromises.push(processFile(fullPath));
       }
     }
+
+    // Aguarda a conclusão de todas as promessas de processamento
+    await Promise.all(processingPromises);
   } catch (error) {
     console.error(`Erro ao processar diretório ${dirPath}:`, error);
   }
