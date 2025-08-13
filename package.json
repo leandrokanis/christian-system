@@ -8,7 +8,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "glossary": "bun src/glossary.js"
+    "glossary": "bun src/glossary.js",
+    "translate": "bun src/translate.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
