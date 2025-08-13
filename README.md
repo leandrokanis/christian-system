@@ -30,11 +30,15 @@ An online distribuition of The Christian System, by Alexander Campbell
 - [Part VII: Concluding Addresses](Part%20VII:%20Concluding%20Addresses/README.md)
 
 
+## Pré-requisitos
+
+- Bun >= 1.2.0
+
 ## Local installation
 
 ```sh
-yarn install
-yarn docs:dev
+bun install
+bun run docs:dev
 ```
 
 ## Project Workflow

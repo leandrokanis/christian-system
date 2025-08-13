@@ -167,7 +167,7 @@ async function main() {
   const overallStart = Date.now();
   const inputArg = process.argv[2];
   if (!inputArg) {
-    console.error('Usage: yarn glossary -- <file-or-directory>');
+    console.error('Usage: bun run glossary -- <file-or-directory>');
     process.exit(1);
   }
   const inputPath = path.isAbsolute(inputArg) ? inputArg : path.join(process.cwd(), inputArg);
