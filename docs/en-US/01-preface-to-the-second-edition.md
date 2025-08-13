@@ -1,0 +1,13 @@
+# Preface to the Second Edition
+
+**This** edition replaces the first part of the last edition with a series of essays on the Christian System and expands on the second part. The ongoing misrepresentation and misunderstanding of our views on some very fundamental aspects of the Christian system seem, at this moment, to call for a clear, definite, and cohesive view of the main outlines and elements of the Christian Institution. This is especially relevant to a significant question that we expect will soon become the central issue for Protestant Christendom: *How can divisions cease, and all Christians unite, harmonize, and cooperate in one great community, as they did in the beginning?*
+
+Ecclesiastical matters are moving toward a new resolution. The Christian system is currently undergoing an examination regarding its evidence and meaning, unlike anything seen since the time of the great defection. Such an era is often characterized by extremes, but things will eventually stabilize and settle on a true foundation. "Many are running to and fro," and certainly, knowledge is increasing.
+
+The Christian system, as presented in the following essays, would have been more systematically and fully developed if not for the specific essays on the "Kingdom of Heaven," "Remission of Sins," "Regeneration," and "Breaking the Loaf." Some points are only briefly discussed in the new essays because they are revisited in those detailed articles that have been published frequently. We have aimed primarily at providing a general overview, leaving the important details on the most debated points for those essays.
+
+Instead of the "Dialogue on the Holy Spirit," which is widely read and thoroughly discussed, we have included a few essays on **Church Order** as part of the Christian system. This is an effort to make the book as useful as possible for those seeking a deeper understanding of our achievements in Christian knowledge. We speak only for ourselves, and while we are always willing to express our faith and understanding of the Christian system, we firmly reject the idea of dogmatically presenting our own views, or those of any fallible person, as a condition or foundation for church unity and cooperation. Therefore, while we would, if we could, proclaim all that we believe and know to the ends of the earth, *we take the Bible, the whole Bible, and nothing but the Bible, as the foundation of all Christian unity and fellowship.* Those who disagree with this are welcome to show us a better way.
+
+A. CAMPBELL.
+
+**BETHANY**, Va. June 13, 1839.

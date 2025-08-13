@@ -1,0 +1,13 @@
+# Prefácio à Segunda Edição
+
+**Esta** edição substitui a primeira parte da última edição por uma série de ensaios sobre o Sistema Cristão e expande a segunda parte. A contínua deturpação e incompreensão de nossos pontos de vista sobre alguns aspectos muito fundamentais do sistema cristão parecem, neste momento, exigir uma visão clara, definida e coesa dos principais contornos e elementos da Instituição Cristã. Isso é especialmente relevante para uma questão significativa que esperamos que em breve se torne a questão central para a cristandade protestante: *Como podem as divisões cessar, e todos os cristãos se unirem, harmonizarem e cooperarem em uma grande comunidade, como fizeram no princípio?*
+
+Assuntos eclesiásticos estão caminhando para uma nova resolução. O sistema cristão está atualmente passando por um exame em relação às suas evidências e significado, diferente de tudo o que se viu desde a época da grande apostasia. Tal era é frequentemente caracterizada por extremos, mas as coisas eventualmente se estabilizarão e se assentarão sobre um verdadeiro fundamento. "Muitos estão correndo de um lado para o outro", e certamente, o conhecimento está aumentando.
+
+O sistema cristão, conforme apresentado nos ensaios a seguir, teria sido desenvolvido de forma mais sistemática e completa se não fossem os ensaios específicos sobre o "Reino dos Céus", "Remissão dos Pecados", "Regeneração" e "Partir do Pão". Alguns pontos são apenas brevemente discutidos nos novos ensaios porque são revisitados nesses artigos detalhados que foram publicados frequentemente. Nosso objetivo principal foi fornecer uma visão geral, deixando os detalhes importantes sobre os pontos mais debatidos para esses ensaios.
+
+Em vez do "Diálogo sobre o Espírito Santo", que é amplamente lido e exaustivamente discutido, incluímos alguns ensaios sobre **Ordem da Igreja** como parte do sistema cristão. Este é um esforço para tornar o livro o mais útil possível para aqueles que buscam uma compreensão mais profunda de nossas conquistas no conhecimento cristão. Falamos apenas por nós mesmos e, embora estejamos sempre dispostos a expressar nossa fé e compreensão do sistema cristão, rejeitamos firmemente a ideia de apresentar dogmaticamente nossos próprios pontos de vista, ou os de qualquer pessoa falível, como condição ou fundamento para a unidade e cooperação da igreja. Portanto, embora quiséssemos, se pudéssemos, proclamar tudo o que acreditamos e sabemos até os confins da terra, *tomamos a Bíblia, toda a Bíblia e nada além da Bíblia, como o fundamento de toda unidade e comunhão cristã.* Aqueles que discordam disso são bem-vindos para nos mostrar um caminho melhor.
+
+A. CAMPBELL.
+
+**BETHANY**, Va. 13 de junho de 1839.

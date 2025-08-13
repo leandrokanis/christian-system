@@ -11,23 +11,24 @@ const {
   runWithConcurrency
 } = require('./common');
 
-const MODEL = process.env.TRANSLATE_MODEL || 'openai/gpt-4o-mini';
-const MAX_CHARS = Math.max(2000, parseInt(process.env.TRANSLATE_MAX_CHARS || '10000', 10));
-const CONCURRENCY = Math.max(1, parseInt(process.env.TRANSLATE_CONCURRENCY || '4', 10));
+const MODEL = process.env.MODERNIZE_MODEL || 'openai/gpt-4o-mini';
+const MAX_CHARS = Math.max(2000, parseInt(process.env.MODERNIZE_MAX_CHARS || '10000', 10));
+const CONCURRENCY = Math.max(1, parseInt(process.env.MODERNIZE_CONCURRENCY || '4', 10));
 
 function computeOutputPath(inputFile) {
   const cwd = process.cwd();
   const docsRoot = path.join(cwd, 'docs');
   const normalized = path.resolve(inputFile);
   if (!normalized.startsWith(docsRoot + path.sep)) {
-    const outDir = path.join(docsRoot, 'pt-BR');
+    const outDir = path.join(docsRoot, 'en-US');
     return path.join(outDir, path.basename(normalized));
   }
   const relToDocs = path.relative(docsRoot, normalized);
   const parts = relToDocs.split(path.sep);
-  if (parts[0] === 'pt-BR') return null;
+  if (parts[0] === 'en-US') return null;
+  if (parts[0] === 'pt-BR') parts.shift();
   if (parts[0] === 'en') parts.shift();
-  const outRel = path.join('pt-BR', ...parts);
+  const outRel = path.join('en-US', ...parts);
   return path.join(docsRoot, outRel);
 }
 
@@ -36,17 +37,17 @@ function buildMessagesForChunk(chunk) {
     {
       role: 'system',
       content:
-        'You are a careful translator. Translate from English to Brazilian Portuguese using dynamic equivalence. Preserve theological terminology and the original tone. Keep the exact Markdown structure and formatting, including headings, lists, blockquotes, links, inline code, and code fences. Do NOT translate code blocks or YAML frontmatter. Return ONLY the translated Markdown for the provided content.'
+        'You are a careful modernizer. Update 19th-century English to contemporary American English while preserving meaning, tone, and theological nuance. Maintain the exact Markdown structure and formatting, including headings, lists, blockquotes, links, inline code, and code fences. Do NOT alter code fences or YAML frontmatter. Avoid archaic vocabulary, obsolete syntax, and capitalization patterns. Return ONLY the modernized Markdown.'
     },
     {
       role: 'user',
       content:
-        'Translate the following Markdown content from English to Brazilian Portuguese. Keep structure and formatting identical. Do not wrap the output with any extra characters. Content:\n\n' + chunk
+        'Modernize the following Markdown from 19th-century English to contemporary American English. Keep structure and formatting identical. Do not wrap the output with any extra characters. Content:\n\n' + chunk
     }
   ];
 }
 
-async function translateChunk(chunk) {
+async function modernizeChunk(chunk) {
   const headers = {
     Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
     'Content-Type': 'application/json'
@@ -65,28 +66,28 @@ async function translateChunk(chunk) {
   return String(response.data?.choices?.[0]?.message?.content || '').trim();
 }
 
-async function translateBodyMarkdown(body) {
+async function modernizeBodyMarkdown(body) {
   const chunks = chunkMarkdownByStructure(body, MAX_CHARS);
   const chunkConcurrency = Math.min(
     chunks.length,
-    Math.max(1, parseInt(process.env.TRANSLATE_CHUNK_CONCURRENCY || String(CONCURRENCY), 10))
+    Math.max(1, parseInt(process.env.MODERNIZE_CHUNK_CONCURRENCY || String(CONCURRENCY), 10))
   );
   const results = await runWithConcurrency(
     chunks,
     async (chunk) => {
-      return await translateChunk(chunk);
+      return await modernizeChunk(chunk);
     },
     chunkConcurrency
   );
   return results.join('\n');
 }
 
-async function translateFile(filePath) {
+async function modernizeFile(filePath) {
   const source = fs.readFileSync(filePath, 'utf8');
   const endsWithNewline = source.endsWith('\n');
   const { frontmatter, body } = splitFrontmatter(source);
-  const translatedBody = await translateBodyMarkdown(body);
-  const combined = frontmatter ? frontmatter + translatedBody : translatedBody;
+  const modernizedBody = await modernizeBodyMarkdown(body);
+  const combined = frontmatter ? frontmatter + modernizedBody : modernizedBody;
   return endsWithNewline && !combined.endsWith('\n') ? combined + '\n' : combined;
 }
 
@@ -94,7 +95,7 @@ async function main() {
   assertApiKey();
   const inputArg = process.argv[2];
   if (!inputArg) {
-    console.error('Usage: bun run translate -- <file-or-directory>');
+    console.error('Usage: bun run modernize:en -- <file-or-directory>');
     process.exit(1);
   }
   const absoluteInput = path.isAbsolute(inputArg) ? inputArg : path.join(process.cwd(), inputArg);
@@ -102,7 +103,7 @@ async function main() {
     console.error(`Input path not found: ${absoluteInput}`);
     process.exit(1);
   }
-  const files = listMarkdownFilesRecursive(absoluteInput);
+  const files = listMarkdownFilesRecursive(absoluteInput, { skipDocsSubdir: 'en-US' });
   if (files.length === 0) {
     console.log('No markdown files found to process.');
     process.exit(0);
@@ -125,9 +126,9 @@ async function main() {
       const start = Date.now();
       console.log(`[START] ${rel}`);
       try {
-        const translated = await translateFile(filePath);
+        const modernized = await modernizeFile(filePath);
         safeMkdir(outDir);
-        fs.writeFileSync(outPath, translated, 'utf8');
+        fs.writeFileSync(outPath, modernized, 'utf8');
         const ms = Date.now() - start;
         completed += 1;
         console.log(`[END]   ${rel} -> ${path.relative(process.cwd(), outPath)} (${ms} ms) [${completed}/${files.length}]`);
@@ -150,4 +151,5 @@ main().catch((err) => {
   console.error(err?.message || String(err));
   process.exit(1);
 });
+
 
