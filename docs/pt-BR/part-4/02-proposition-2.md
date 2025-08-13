@@ -1,9 +1,0 @@
-# Proposição 2
-
-***Os convertidos apostólicos eram tratados por seus mestres como indivíduos justificados.***
-
-Sabemos que somente indivíduos inocentes podem ser legalmente justificados; no entanto, o termo não é usado no sentido jurídico pelos Apóstolos. Entre os judeus, significava nada mais do que *perdoado*; e, quando aplicado aos cristãos, indicava que estavam absolvidos de culpa — livres de condenação, e vistos como justos aos olhos de Deus.
-
-Paulo, em Antioquia da Pisídia, assegurou aos judeus que *em* ou por meio de Jesus, todos que acreditavam eram justificados de todas as coisas (aqui, é certamente equivalente a serem perdoados de todos os pecados) que não podiam ser justificadas pela lei de Moisés. Os discípulos são ditos serem justificados pela fé.<sup>10</sup> Por favor ou graça.<sup>11</sup> *No* ou *pelo* sangue de Cristo.<sup>12</sup> Pelo nome do Senhor Jesus.<sup>13</sup> Por obras.<sup>14</sup> É Deus quem justifica.<sup>15</sup>
-
-Diz-se que os cristãos são justificados por Deus, por Cristo, por favor, pela fé, pelo sangue de Jesus, pelo *nome* do Senhor Jesus e pelo Espírito de Deus — além de por obras. Perdão e absolvição são as ideias centrais em todas as aplicações do termo. Deus é quem justifica. Jesus, como Seu Messias, também justifica, e o Espírito declara isso. Como um ato de favor, é realizado, pelo *sangue de Jesus* como a causa justa e eficaz — *pela fé* como a causa instrumental — pelo *nome* de Jesus, o Senhor, como a causa imediata e conectiva, e por *obras* como a causa demonstrativa e conclusiva. Nada é mais claro do que os testemunhos acima de que todos os cristãos são declarados justificados sob o Reinado de Jesus Cristo.

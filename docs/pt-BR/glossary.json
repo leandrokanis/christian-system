@@ -1,0 +1,738 @@
+[
+  {
+    "term": "Abba",
+    "explanation": "An Aramaic word for 'father', used in a personal and intimate way."
+  },
+  {
+    "term": "ablutions",
+    "explanation": "The act of washing oneself as a religious rite."
+  },
+  {
+    "term": "abortion",
+    "explanation": "Something that is malformed or imperfectly developed."
+  },
+  {
+    "term": "accursed tree",
+    "explanation": "A reference to the cross, considered cursed in Jewish tradition (Deuteronomy 21:23)."
+  },
+  {
+    "term": "adamant",
+    "explanation": "A legendary stone of impenetrable hardness; figuratively, unyielding."
+  },
+  {
+    "term": "Affusion",
+    "explanation": "The pouring of liquid, especially water, on someone as a religious rite; sprinkling."
+  },
+  {
+    "term": "alien",
+    "explanation": "A foreigner; someone excluded from or not belonging to a particular group or place."
+  },
+  {
+    "term": "Allegiance",
+    "explanation": "Loyalty or commitment to a superior or to a group or cause."
+  },
+  {
+    "term": "amalgamation",
+    "explanation": "The action or process of uniting or merging."
+  },
+  {
+    "term": "amenable",
+    "explanation": "Responsive or accountable to authority; willing to comply."
+  },
+  {
+    "term": "anathematize",
+    "explanation": "To curse or condemn vehemently."
+  },
+  {
+    "term": "antecedent administrations",
+    "explanation": "Previous ways in which God governed or managed the world."
+  },
+  {
+    "term": "Apostate",
+    "explanation": "Having abandoned one's religious faith or principles."
+  },
+  {
+    "term": "apostatized",
+    "explanation": "To abandon a religious faith or principle."
+  },
+  {
+    "term": "Apostles",
+    "explanation": "The primary disciples of Jesus Christ, commissioned to spread his teachings."
+  },
+  {
+    "term": "arcana",
+    "explanation": "Secrets or mysteries."
+  },
+  {
+    "term": "atheist",
+    "explanation": "A person who disbelieves or lacks belief in the existence of God or gods."
+  },
+  {
+    "term": "Augustus",
+    "explanation": "The first Roman emperor, reigning from 27 BC until his death in AD 14."
+  },
+  {
+    "term": "Bath of regeneration",
+    "explanation": "A metaphorical term for baptism, symbolizing spiritual cleansing and renewal."
+  },
+  {
+    "term": "begotten",
+    "explanation": "Brought into existence; in theology, often refers to the unique relationship of Jesus to God the Father."
+  },
+  {
+    "term": "Belial",
+    "explanation": "A name for the devil or a personification of wickedness."
+  },
+  {
+    "term": "belligerent",
+    "explanation": "Waging war; hostile and aggressive."
+  },
+  {
+    "term": "blasphemous",
+    "explanation": "Impiously irreverent; showing contempt or lack of reverence for God."
+  },
+  {
+    "term": "Born again",
+    "explanation": "A spiritual rebirth or renewal, often associated with conversion to Christianity."
+  },
+  {
+    "term": "bowels",
+    "explanation": "In older usage, referred to the seat of emotions, such as pity or compassion."
+  },
+  {
+    "term": "cabal",
+    "explanation": "A secret political clique or faction."
+  },
+  {
+    "term": "carnal",
+    "explanation": "Relating to the flesh or body; worldly."
+  },
+  {
+    "term": "Casuistry",
+    "explanation": "The application of general ethical principles to particular cases of conscience or conduct."
+  },
+  {
+    "term": "Cataline",
+    "explanation": "Lucius Sergius Catilina, a Roman politician known for his conspiracy to overthrow the Roman Republic."
+  },
+  {
+    "term": "Christendom",
+    "explanation": "The worldwide community of Christians."
+  },
+  {
+    "term": "Christian immersion",
+    "explanation": "Baptism by complete submersion in water, symbolizing cleansing from sin and new life in Christ."
+  },
+  {
+    "term": "coadjutors",
+    "explanation": "People who work together; collaborators."
+  },
+  {
+    "term": "compact",
+    "explanation": "A formal agreement or contract."
+  },
+  {
+    "term": "condoled",
+    "explanation": "Expressed sympathy or sorrow."
+  },
+  {
+    "term": "confiscation",
+    "explanation": "The seizure of property by authority."
+  },
+  {
+    "term": "Constitutionally naturalized",
+    "explanation": "To become a member of a group or kingdom according to its established rules and procedures."
+  },
+  {
+    "term": "contumely",
+    "explanation": "Insolent or insulting language or treatment; scornful abuse."
+  },
+  {
+    "term": "conventicles",
+    "explanation": "Secret or unauthorized religious meetings."
+  },
+  {
+    "term": "Cornelius",
+    "explanation": "A Roman centurion who, according to the New Testament, was the first Gentile to be baptized as a Christian."
+  },
+  {
+    "term": "countervail",
+    "explanation": "To offset the effect of (something) by countering it with something of equal force."
+  },
+  {
+    "term": "Crime and misdemeanor",
+    "explanation": "A legal term referring to offenses less serious than felonies."
+  },
+  {
+    "term": "criminate",
+    "explanation": "To accuse of a crime."
+  },
+  {
+    "term": "crusade",
+    "explanation": "A vigorous campaign for a cause or idea."
+  },
+  {
+    "term": "deist",
+    "explanation": "One who believes in God but rejects organized religion."
+  },
+  {
+    "term": "delectable",
+    "explanation": "Delicious; highly pleasing or delightful."
+  },
+  {
+    "term": "demagogue",
+    "explanation": "A political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument."
+  },
+  {
+    "term": "deprecation",
+    "explanation": "Expressing disapproval or regret."
+  },
+  {
+    "term": "Discomfiture",
+    "explanation": "A feeling of unease or embarrassment; awkwardness."
+  },
+  {
+    "term": "dispensations",
+    "explanation": "A specific arrangement or period in God's plan for humanity."
+  },
+  {
+    "term": "Dogma",
+    "explanation": "A principle or belief laid down as incontrovertibly true."
+  },
+  {
+    "term": "effulgence",
+    "explanation": "A radiant splendor or brilliance."
+  },
+  {
+    "term": "elders",
+    "explanation": "Leaders or officials in a community or religious group."
+  },
+  {
+    "term": "embryo",
+    "explanation": "An unborn or unhatched offspring in the process of development."
+  },
+  {
+    "term": "expostulations",
+    "explanation": "Earnest reasoning or protest."
+  },
+  {
+    "term": "Fallacious",
+    "explanation": "Based on mistaken belief or unsound reasoning."
+  },
+  {
+    "term": "fathomless gulf",
+    "explanation": "Hell; a bottomless abyss."
+  },
+  {
+    "term": "felicity",
+    "explanation": "Intense happiness."
+  },
+  {
+    "term": "filial",
+    "explanation": "Relating to or befitting a son or daughter."
+  },
+  {
+    "term": "fraternize",
+    "explanation": "Associate on friendly terms."
+  },
+  {
+    "term": "freebooters",
+    "explanation": "Pirates or buccaneers; those who plunder or pillage."
+  },
+  {
+    "term": "Fulfilling all righteousness",
+    "explanation": "Obeying all of God's commands and requirements."
+  },
+  {
+    "term": "Galileans",
+    "explanation": "People from Galilee, a region in ancient Palestine; often used to refer to early Christians."
+  },
+  {
+    "term": "Gentile",
+    "explanation": "A person who is not Jewish."
+  },
+  {
+    "term": "Gentiles",
+    "explanation": "People who are not Jewish."
+  },
+  {
+    "term": "gospel of the kingdoms",
+    "explanation": "The good news of God's reign or rule."
+  },
+  {
+    "term": "Great Apostle and High Priest of your confession",
+    "explanation": "A title for Jesus Christ, emphasizing his role as both a messenger of God and the ultimate mediator between God and humanity."
+  },
+  {
+    "term": "Harbinger",
+    "explanation": "A person or thing that announces or signals the approach of another; in this context, John the Baptist."
+  },
+  {
+    "term": "heterogeneous",
+    "explanation": "Composed of dissimilar ingredients; diverse."
+  },
+  {
+    "term": "High Priest",
+    "explanation": "A religious leader; in Christianity, often refers to Jesus Christ."
+  },
+  {
+    "term": "holy places",
+    "explanation": "Referring to the heavenly realm or the presence of God."
+  },
+  {
+    "term": "Hottentot",
+    "explanation": "An outdated and offensive term for the Khoikhoi people of South Africa."
+  },
+  {
+    "term": "Immanuel",
+    "explanation": "A name meaning 'God with us'; a name of Jesus."
+  },
+  {
+    "term": "importuning",
+    "explanation": "Asking persistently or urgently."
+  },
+  {
+    "term": "impotent",
+    "explanation": "Lacking power or ability."
+  },
+  {
+    "term": "In lieu of",
+    "explanation": "In place of; instead of."
+  },
+  {
+    "term": "Inducted",
+    "explanation": "Admitted formally to a position or organization."
+  },
+  {
+    "term": "inducts",
+    "explanation": "To formally admit someone to a position or organization."
+  },
+  {
+    "term": "infernal",
+    "explanation": "Relating to hell."
+  },
+  {
+    "term": "infidel",
+    "explanation": "A person who does not believe in a particular religion."
+  },
+  {
+    "term": "infidelity",
+    "explanation": "Lack of faith or belief in religion."
+  },
+  {
+    "term": "iniquity",
+    "explanation": "Immoral or grossly unfair behavior."
+  },
+  {
+    "term": "inordinate",
+    "explanation": "Unusually or disproportionately large; excessive."
+  },
+  {
+    "term": "insurrection",
+    "explanation": "A violent uprising against an authority or government."
+  },
+  {
+    "term": "intelligences",
+    "explanation": "Spiritual beings; angels or demons."
+  },
+  {
+    "term": "irrefragable",
+    "explanation": "Impossible to refute or disprove; undeniable."
+  },
+  {
+    "term": "irremediable",
+    "explanation": "Impossible to remedy or correct."
+  },
+  {
+    "term": "Jewish age",
+    "explanation": "The period in biblical history from Moses to Jesus, characterized by the Mosaic Law and the Temple."
+  },
+  {
+    "term": "joint heirs",
+    "explanation": "Sharing an inheritance equally with others."
+  },
+  {
+    "term": "Judah's Lion",
+    "explanation": "A symbolic representation of Jesus Christ, derived from the tribe of Judah in the Bible."
+  },
+  {
+    "term": "Jugurtha",
+    "explanation": "A king of Numidia in North Africa, known for his war against Rome."
+  },
+  {
+    "term": "King's evidence",
+    "explanation": "Testimony given by an accomplice in a crime, used against other participants; also known as state's evidence."
+  },
+  {
+    "term": "Kingdom",
+    "explanation": "In theological contexts, often refers to the reign or realm of God."
+  },
+  {
+    "term": "Lamb",
+    "explanation": "A symbolic representation of Jesus Christ, referring to his sacrifice."
+  },
+  {
+    "term": "leagued",
+    "explanation": "Joined in a conspiracy or alliance."
+  },
+  {
+    "term": "libertines",
+    "explanation": "A person, especially a man, who behaves without moral principles or a sense of responsibility, especially in sexual matters."
+  },
+  {
+    "term": "Lord's Anointed",
+    "explanation": "Jesus Christ, as the chosen one of God."
+  },
+  {
+    "term": "lusts of the eye",
+    "explanation": "Sinful desires aroused by what one sees; covetousness."
+  },
+  {
+    "term": "lusts of the flesh",
+    "explanation": "Sinful desires related to physical appetites and sensual pleasures."
+  },
+  {
+    "term": "machinations",
+    "explanation": "Crafty schemes or plots."
+  },
+  {
+    "term": "martyrdom",
+    "explanation": "The suffering of death on account of adherence to a cause, especially religious beliefs."
+  },
+  {
+    "term": "matricide",
+    "explanation": "The killing of one's mother."
+  },
+  {
+    "term": "Mediator",
+    "explanation": "One who intervenes between two parties to reconcile them; in Christianity, Jesus is the mediator between God and humanity."
+  },
+  {
+    "term": "Messiah",
+    "explanation": "The promised deliverer of the Jewish people; Christians believe Jesus is the Messiah."
+  },
+  {
+    "term": "Methuselah",
+    "explanation": "A biblical figure known for his extreme longevity; used here to represent a very long time."
+  },
+  {
+    "term": "motley",
+    "explanation": "Exhibiting great diversity of elements; heterogeneous."
+  },
+  {
+    "term": "Mount Calvary",
+    "explanation": "The site of Jesus' crucifixion."
+  },
+  {
+    "term": "Mystic Babylon",
+    "explanation": "A symbolic term for a corrupt and worldly system, often used in religious contexts."
+  },
+  {
+    "term": "Naturalizing aliens",
+    "explanation": "The process of granting citizenship to foreign-born individuals."
+  },
+  {
+    "term": "Offer his child to the Lord",
+    "explanation": "To dedicate or consecrate a child to God's service."
+  },
+  {
+    "term": "offscourings",
+    "explanation": "Refuse; the dregs or waste matter; people considered worthless."
+  },
+  {
+    "term": "Omnipotence",
+    "explanation": "The quality of having unlimited or very great power."
+  },
+  {
+    "term": "only-begotten Son of God",
+    "explanation": "A theological term referring to Jesus Christ, emphasizing his unique relationship with God the Father."
+  },
+  {
+    "term": "Oracles of God",
+    "explanation": "The revealed word or pronouncements of God, often referring to the Bible."
+  },
+  {
+    "term": "ordinances",
+    "explanation": "Religious rites or ceremonies."
+  },
+  {
+    "term": "overturning of strong holds",
+    "explanation": "Overcoming powerful arguments or defenses against the truth."
+  },
+  {
+    "term": "palpable",
+    "explanation": "Obvious; easily perceived; tangible."
+  },
+  {
+    "term": "panoply",
+    "explanation": "A complete or impressive collection of things."
+  },
+  {
+    "term": "parity of reason",
+    "explanation": "Equality of reasoning; using similar logic."
+  },
+  {
+    "term": "Patriarchal age",
+    "explanation": "The period in biblical history dominated by the patriarchs (e.g., Abraham, Isaac, Jacob)."
+  },
+  {
+    "term": "Penitent",
+    "explanation": "Feeling or expressing remorse for one's sins or misdeeds."
+  },
+  {
+    "term": "perdition",
+    "explanation": "A state of eternal punishment and damnation after death."
+  },
+  {
+    "term": "Pharisee",
+    "explanation": "A member of a Jewish sect that emphasized strict adherence to the law."
+  },
+  {
+    "term": "piety",
+    "explanation": "Religious devotion and reverence to God."
+  },
+  {
+    "term": "plaudit",
+    "explanation": "Praise or approval."
+  },
+  {
+    "term": "plenary",
+    "explanation": "Complete or absolute."
+  },
+  {
+    "term": "Potentate",
+    "explanation": "A monarch or ruler."
+  },
+  {
+    "term": "pride of life",
+    "explanation": "Arrogance and self-importance; excessive belief in one's own abilities or worth."
+  },
+  {
+    "term": "Prince Immanuel",
+    "explanation": "A title for Jesus Christ, combining 'Prince' with 'Immanuel,' meaning 'God with us'."
+  },
+  {
+    "term": "Prince of Peace",
+    "explanation": "A title for Jesus Christ, emphasizing his role in bringing peace between God and humanity."
+  },
+  {
+    "term": "promiscuous",
+    "explanation": "Consisting of a mixture of various things; indiscriminate."
+  },
+  {
+    "term": "propensities",
+    "explanation": "An inclination or natural tendency to behave in a particular way."
+  },
+  {
+    "term": "proscription",
+    "explanation": "The action of forbidding something; condemnation; outlawry."
+  },
+  {
+    "term": "Proselytes of the Gate",
+    "explanation": "Gentiles in ancient Judaism who adhered to some Jewish customs and beliefs without fully converting."
+  },
+  {
+    "term": "providence",
+    "explanation": "God's intervention in the world."
+  },
+  {
+    "term": "providences",
+    "explanation": "God's guidance and care over creation."
+  },
+  {
+    "term": "Put on Christ",
+    "explanation": "A phrase often used to describe the act of identifying with Christ through baptism and adopting a Christian way of life."
+  },
+  {
+    "term": "rayless receptacle",
+    "explanation": "A place devoid of light; Hell."
+  },
+  {
+    "term": "rebellion",
+    "explanation": "Open resistance to or defiance of authority."
+  },
+  {
+    "term": "redemption",
+    "explanation": "The act of saving or being saved from sin, error, or evil."
+  },
+  {
+    "term": "reflex light",
+    "explanation": "Indirect or reflected light; here, the influence of the Gospel."
+  },
+  {
+    "term": "Reign of Heaven",
+    "explanation": "A term used to describe the kingdom of God or the rule of God."
+  },
+  {
+    "term": "reigning Monarch",
+    "explanation": "God, as the supreme ruler of creation."
+  },
+  {
+    "term": "remission",
+    "explanation": "The forgiveness of sins."
+  },
+  {
+    "term": "Remission of sins",
+    "explanation": "The forgiveness of sins, often associated with repentance and faith in Jesus Christ."
+  },
+  {
+    "term": "remonstrances",
+    "explanation": "A forcefully reproachful protest."
+  },
+  {
+    "term": "Robespierre",
+    "explanation": "Maximilien Robespierre, a French lawyer and politician, one of the best-known and most influential figures of the French Revolution."
+  },
+  {
+    "term": "Sadducee",
+    "explanation": "A member of a Jewish sect that denied the resurrection of the dead, the existence of spirits, and the authority of oral tradition."
+  },
+  {
+    "term": "Samaritan",
+    "explanation": "An inhabitant of Samaria; considered by Jews to be of foreign descent and having a different religion."
+  },
+  {
+    "term": "Samaritans",
+    "explanation": "An ethnoreligious group inhabiting Samaria, with religious traditions distinct from Judaism."
+  },
+  {
+    "term": "Sampson shorn",
+    "explanation": "Referring to the biblical figure Sampson, who lost his strength when his hair was cut."
+  },
+  {
+    "term": "Sanctified",
+    "explanation": "Made holy or consecrated; set apart for a sacred purpose."
+  },
+  {
+    "term": "sceptic",
+    "explanation": "A person who questions or doubts accepted opinions."
+  },
+  {
+    "term": "scepticism",
+    "explanation": "Doubt as to the truth of something."
+  },
+  {
+    "term": "scribes",
+    "explanation": "In ancient Jewish society, experts in the law and its interpretation."
+  },
+  {
+    "term": "Sectarian",
+    "explanation": "Relating to or characteristic of a sect, especially in a narrow-minded or bigoted way."
+  },
+  {
+    "term": "sectarianism",
+    "explanation": "Excessive attachment to a particular sect or party, especially in religion."
+  },
+  {
+    "term": "Seneca",
+    "explanation": "Lucius Annaeus Seneca the Younger, a Roman Stoic philosopher, statesman, dramatist, and in one work humorist, of the Silver Age of Latin literature."
+  },
+  {
+    "term": "simpleton",
+    "explanation": "A foolish or gullible person."
+  },
+  {
+    "term": "Statutes",
+    "explanation": "Written laws enacted by a legislative body."
+  },
+  {
+    "term": "stripes",
+    "explanation": "A blow or lash, especially as part of a punishment."
+  },
+  {
+    "term": "stultify",
+    "explanation": "To make futile or ineffectual."
+  },
+  {
+    "term": "Style",
+    "explanation": "A particular way of expressing something."
+  },
+  {
+    "term": "Subversion",
+    "explanation": "The undermining of the power and authority of an established system or institution."
+  },
+  {
+    "term": "succoured",
+    "explanation": "Gave assistance or relief to."
+  },
+  {
+    "term": "Sun of Righteousness",
+    "explanation": "A title for Jesus Christ, symbolizing his role as a source of spiritual light and justice."
+  },
+  {
+    "term": "supercilious",
+    "explanation": "Behaving or looking as though one thinks one is superior to others."
+  },
+  {
+    "term": "supernumerary",
+    "explanation": "Exceeding the required or natural number; extra."
+  },
+  {
+    "term": "supervening",
+    "explanation": "Occurring or coming as something additional or unexpected."
+  },
+  {
+    "term": "supplicating",
+    "explanation": "Asking or begging for something earnestly or humbly."
+  },
+  {
+    "term": "supplication",
+    "explanation": "Humble prayer or entreaty."
+  },
+  {
+    "term": "synagogue",
+    "explanation": "A Jewish house of worship."
+  },
+  {
+    "term": "synagogue of Satan",
+    "explanation": "A group or community aligned with evil and opposing God."
+  },
+  {
+    "term": "Syrophenician",
+    "explanation": "Relating to ancient Phoenicia, specifically the region of Syria."
+  },
+  {
+    "term": "temporal",
+    "explanation": "Relating to worldly affairs as opposed to spiritual affairs; existing in time."
+  },
+  {
+    "term": "terrestrial",
+    "explanation": "Relating to the earth."
+  },
+  {
+    "term": "Thus saith the Lord",
+    "explanation": "A phrase used to introduce a statement believed to be directly from God."
+  },
+  {
+    "term": "Tiberius Cesar",
+    "explanation": "The second Roman emperor, reigning from 14 AD to 37 AD."
+  },
+  {
+    "term": "transgression",
+    "explanation": "An act that goes against a law, rule, or code of conduct; a sin."
+  },
+  {
+    "term": "transgressions",
+    "explanation": "Acts that violate a law or command; sins."
+  },
+  {
+    "term": "transgressor",
+    "explanation": "A person who violates a law or command; a sinner."
+  },
+  {
+    "term": "Usage",
+    "explanation": "A customary way of doing something."
+  },
+  {
+    "term": "Voluntary agent",
+    "explanation": "Someone who acts freely and intentionally, with the ability to make their own choices."
+  },
+  {
+    "term": "vouchsafed",
+    "explanation": "Given or granted to someone in a gracious or condescending manner."
+  },
+  {
+    "term": "Yoke",
+    "explanation": "A symbol of servitude or submission, often used in a religious context to represent obedience to God's will."
+  }
+]

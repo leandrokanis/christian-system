@@ -1,7 +1,0 @@
-# Proposição 5
-
-***Os primeiros discípulos eram considerados e tratados pelos Apóstolos como "adotados na família de Deus."***
-
-Essa adoção é apresentada pelo Apóstolo como a grande razão que trouxe o Filho de Deus. "Deus," ele diz, "enviou seu Filho, nascido de mulher, nascido sob a lei, para redimir os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos." "E porque vocês *são filhos,* ele enviou o espírito de seu Filho aos seus corações, que clama *Abba,* Pai." "Portanto, vocês agora são filhos de Deus."
-
-Na verdade, o mesmo escritor, em sua carta aos Efésios, vai ainda mais longe e representa essa adoção de judeus e gentios ao status e dignidade de filhos e filhas do Senhor Todo-Poderoso como o grande objetivo contemplado na predestinação de Deus. "Tendo," ele diz, "nos predestinado, ou anteriormente determinado, para uma *adoção* ao número de filhos por Jesus Cristo, *para ele mesmo,* de acordo com o bom prazer de sua vontade." Outro testemunho deve bastar sobre esse ponto. "Amados," diz o Apóstolo João, "*agora* somos *filhos de Deus;* e que tipo de amor Deus nos concedeu, para que fôssemos chamados *filhos de Deus!*" "Se somos filhos, então somos herdeiros de Deus — co-herdeiros com Cristo."
