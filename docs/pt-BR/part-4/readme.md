@@ -1,4 +1,4 @@
-# Parte IV: Remissão dos Pecados
+# Parte IV: Remissão de Pecados
 
 - [Introdução](00-introduction.md)
 - [Conclusão](15-conclusion.md)

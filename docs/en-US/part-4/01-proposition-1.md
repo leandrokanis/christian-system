@@ -1,0 +1,15 @@
+# Proposition 1
+
+***The Apostles taught their disciples, or converts, that their sins were forgiven, and consistently addressed them as pardoned or justified individuals.*** 
+
+John testifies that the youngest disciples were pardoned. "I write to you, little children, because your sins *are forgiven you* on account of his name." He commends the young men who are strong in the Lord and the old men who are steadfast in the Lord for their achievements; but he addresses the *little children,* the youngest converts, as possessing this blessing as something common to all disciples, "Your sins are forgiven you, *on account of his name.*" 
+
+Paul, in his letter to the Hebrews, asserts that one of the provisions of the New Institution is *the forgiveness of the sins of all under it.* "*Their sins* and iniquities I will remember no more." From this, he argues, as a foundational principle in the Christian faith, "Now where forgiveness of these is, no more offering for sin is needed." The reason given by the Apostles why *Christians* have no *sin offering* is that they have received forgiveness of sins as a standing provision in the New Institution. 
+
+The same Apostle testifies that the Ephesian disciples had received forgiveness. "Be kind to one another, tenderhearted, forgiving each other, just as God for Christ's sake *has forgiven you.*" Here, too, in listing Christian privileges and immunities under Christ, he asserts forgiveness of sins as the common experience of all disciples. "In whom we have redemption through his blood, even *the forgiveness of sins,* according to the riches of his grace." In his letter to the Colossians, he uses the same words — "By whom we have *the forgiveness of sins.*" 
+
+Figurative expressions are used by the same Apostle, conveying the same forgiveness common to all Christians. "And such (guilty individuals) were some of you; but *you are washed;* but *you are sanctified;* but *you are justified* in the name of the Lord Jesus, and by the Spirit of God." Peter also bears witness here. "Seeing *you have purified your souls* by obeying the truth through the Spirit." 
+
+But there is no need for foreign, remote, or figurative expressions when the Apostles assert it so literally and repeatedly as one of the characteristics of being a disciple of Jesus. If we had no other testimony than that found in a single letter to the Colossians, it would be enough to support this position. The command given in chapter 3:13 assumes it as a principle. "*As Christ forgave you, so also do you.*" But in the second chapter, he makes this an inseparable aspect of being in Christ. "You are *complete* in him — circumcised — buried with him — raised with him — made alive with him — **having forgiven you all trespasses**." 
+
+These explicit testimonies from the most prominent witnesses support my first proposition. On these evidences I rely, and I will henceforth speak of it as a truth that should not be questioned, namely, that all the disciples of Christ converted in the apostolic age were taught by the Apostles to consider themselves as pardoned individuals.

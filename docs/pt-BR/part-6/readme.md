@@ -7,4 +7,4 @@
 - [Proposição 5](05-proposition-5.md)
 - [Proposição 6](06-proposition-6.md)
 - [Proposição 7](07-proposition-7.md)
-- [Objeções Consideradas](08-objections-cons
+- [Objeções Consideradas](08-objections-considered.md)

@@ -8,10 +8,9 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "format": "node src/formater.js",
-    "translate": "node src/translater.js",
-    "glossary": "node src/glossary.js",
-    "normalize": "node src/normalize.js"
+    "glossary": "bun src/glossary.js",
+    "translate": "bun src/translate.js",
+    "modernize": "bun src/modernize_en.js"
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
@@ -22,6 +21,7 @@
     "vuepress-bar": "^0.4.5"
   },
   "engines": {
-    "node": ">18.0.0"
-  }
+    "bun": ">=1.2.0"
+  },
+  "packageManager": "bun@1.2.20"
 }
