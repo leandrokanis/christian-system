@@ -1,4 +1,4 @@
-# Part II: Foundation of Christian Union
+# Part II: Foundation of Christian Unity
 
 - [Introduction](Introduction.md)
 - [1. Fact](1.%20Fact.md)

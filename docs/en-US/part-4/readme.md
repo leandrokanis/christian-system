@@ -15,4 +15,4 @@
 - [Proposition 10](10-proposition-10.md)
 - [Proposition 11](11-proposition-11.md)
 - [Proposition 12](12-proposition-12.md)
-- [Recapitulation](14-recapitulation.md)
+- [Recap](14-recapitulation.md)
